@@ -12,6 +12,67 @@ from src.tools.graph_generation import generate_graph
 st.set_page_config(page_title="Pharma SQL Agent", page_icon="💊")
 st.title("💊 Pharma Database Assistant")
 
+# sections = {
+#     "Sales & Revenue Insights": [
+#         "What are the total sales in 2024?",
+#         "Give me the monthly sales trend month over month in 2024.",
+#         "Give me sales by product category for 2024.",
+#         "Show quarter-over-quarter growth for 2023–24.",
+#         "Show sales split by channels.",
+#         "What is the contribution of North Zone to total business?",
+#         "Calculate revenue contribution of each product category to total sales.",
+#         "Show sales split by region for Q1, 2024."
+#     ],
+
+#     "Product Performance & Analytics": [
+#         "Which products generated the highest revenue in Q3, 2024?",
+#         "Which products are underperforming in Q3, 2024 compared to Q4, 2024?",
+#         "Which products have decreasing month-on-month revenue for at least 3 consecutive months?",
+#         "What are the top 15 products by revenue in 2024?",
+#         "Show the total quantity sold for each product category.",
+#         "Which products have declining sales for 3 consecutive months?",
+#         "Show the 5 lowest-selling products in 2023."
+#     ],
+
+#     "Customer Analytics & Segmentation": [
+#         "How many new customers did we acquire in 2024?",
+#         "What is the repeat purchase rate — customers who purchased more than once?",
+#         "List top 20 customers by revenue along with their city and region.",
+#         "Segment customers based on purchase frequency and revenue.",
+#         "Give the top 10 customers by lifetime revenue."
+#     ],
+
+#     "Order & Transaction Insights": [
+#         "Show the count of orders by region.",
+#         "Which regions have the highest average order value?",
+#         "List customers who placed more than 5 orders in Q2, 2024."
+#     ],
+
+#     "Regional Performance": [
+#         "Show the count of orders by region.",
+#         "Which regions have the highest average order value?",
+#         "List top 20 customers by revenue along with their city and region.",
+#         "What is the contribution of North Zone to total business?",
+#         "Show sales split by region for Q1, 2024."
+#     ],
+
+#     "Inventory & Operations": [
+#         "Are we seeing any inventory shortages that might have impacted sales?"
+#     ]
+# }
+
+# st.session_state.selected_question = 0
+
+# with st.expander("Try these", expanded = False):
+#     tabs = st.tabs(list(sections.keys()))
+#     for tab, section_title in zip(tabs, sections.keys()):
+#         with tab:
+#             questions = sections[section_title]
+#             for question in questions:
+#                 if st.button(question, key = section_title + question):
+#                     selected_question = 1
+#                     user_input = question
+
 
 # Initialize Session State
 if "messages" not in st.session_state:
@@ -33,6 +94,28 @@ def initialize_agent():
     except Exception as e:
         st.error(f"Error initializing agent: {e}")
         return None
+
+def render_metadata_sidebar(metadata):
+    st.sidebar.title("📚 Database Tables")
+
+    if not metadata or not hasattr(metadata, "tables"):
+        st.sidebar.warning("No metadata available")
+        return
+
+    for table in metadata.tables:
+        with st.sidebar.expander(f"📄 {table.name}", expanded=False):
+
+            st.markdown(f"**Description:** {table.description}")
+            st.markdown("**Columns:**")
+
+            for column in table.columns:
+                st.markdown(
+                    f"- **{column.name}**  \n"
+                    f"  <span style='color: gray; font-size: 0.85em'>"
+                    f"{column.description}"
+                    f"</span>",
+                    unsafe_allow_html=True
+                )
 
 
 def create_chart_for_message(msg_index):
@@ -63,6 +146,9 @@ def create_chart_for_message(msg_index):
     except Exception as e:
         st.session_state.messages[msg_index]["chart_error"] = str(e)
 
+with st.sidebar:
+    metadata = load_metadata('./data/metadata.yaml')
+    render_metadata_sidebar(metadata)
 
 agent = initialize_agent()
 
@@ -155,7 +241,7 @@ if user_input := st.chat_input("Ask a question about the database..."):
                 st.error(f"An error occurred: {e}")
 # Sidebar Reset
 with st.sidebar:
-    if st.button("Reset Conversation"):
+    if st.button("🔄 Reset Conversation"):
         st.session_state.messages = []
         st.session_state.last_final_result = None
         st.session_state.last_intermediate_steps = None
