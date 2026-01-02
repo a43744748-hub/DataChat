@@ -1,0 +1,26 @@
+product_name,molecule,therapy_area,pack_size,launch_date,mrp,margin_pct,competitor_flag,brand_manager
+ANA-01,Paracetamol,Analgesics,20,17-10-2022,167.75,0.27,TRUE,Dev Chhabra
+ANA-02,Budesonide,Analgesics,30,15-06-2024,73.98,0.26,FALSE,Dev Chhabra
+ANA-03,Budesonide,Analgesics,15,13-02-2025,375.05,0.36,FALSE,Arjun Zachariah
+RES-04,Amoxicillin,Respiratory,10,28-10-2022,393.88,0.27,FALSE,Sarthak Ramesh
+CAR-05,Atorvastatin,Cardiology,20,26-04-2023,104.97,0.31,FALSE,Sarthak Ramesh
+RES-06,Amoxicillin,Respiratory,10,06-10-2025,381.08,0.33,FALSE,Arjun Zachariah
+ANA-07,Budesonide,Analgesics,20,12-08-2023,424.94,0.34,FALSE,Dev Chhabra
+CAR-08,Paracetamol,Cardiology,10,14-08-2025,350.96,0.37,FALSE,Anamika Garde
+ANA-09,Metformin,Analgesics,20,18-11-2023,259.5,0.38,FALSE,Sarthak Ramesh
+CAR-10,Amoxicillin,Cardiology,10,03-04-2023,328.02,0.28,FALSE,Anamika Garde
+DIA-11,Metformin,Diabetes,20,18-12-2023,495.39,0.35,FALSE,Sarthak Ramesh
+ANA-12,Atorvastatin,Analgesics,10,30-06-2023,414.22,0.31,TRUE,Dev Chhabra
+ANT-13,Atorvastatin,Antibiotics,30,28-03-2024,234.08,0.39,FALSE,Sarthak Ramesh
+CAR-14,Atorvastatin,Cardiology,20,13-08-2024,388.69,0.31,FALSE,Sarthak Ramesh
+CAR-15,Atorvastatin,Cardiology,30,13-07-2025,100,0.26,TRUE,Anamika Garde
+DIA-16,Budesonide,Diabetes,10,26-02-2025,229.3,0.34,FALSE,Sarthak Ramesh
+RES-17,Paracetamol,Respiratory,10,13-12-2022,359.95,0.33,FALSE,Sarthak Ramesh
+ANA-18,Amoxicillin,Analgesics,30,31-10-2022,129.59,0.25,FALSE,Sarthak Ramesh
+RES-19,Atorvastatin,Respiratory,10,19-02-2024,443.03,0.29,FALSE,Dev Chhabra
+CAR-20,Atorvastatin,Cardiology,20,24-08-2023,395.5,0.33,FALSE,Dev Chhabra
+ANA-21,Budesonide,Analgesics,20,27-04-2025,274.99,0.27,FALSE,Sarthak Ramesh
+CAR-22,Paracetamol,Cardiology,15,30-05-2023,446.32,0.39,TRUE,Arjun Zachariah
+ANA-23,Budesonide,Analgesics,15,25-03-2025,116.49,0.32,FALSE,Sarthak Ramesh
+RES-24,Budesonide,Respiratory,30,25-07-2024,484.32,0.39,FALSE,Anamika Garde
+ANT-25,Metformin,Antibiotics,20,09-10-2025,252.76,0.33,TRUE,Anamika Garde

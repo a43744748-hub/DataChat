@@ -1,0 +1,1201 @@
+customer_id,customer_name,customer_type,specialization,region,territory,assigned_rep,avg_monthly_rx,loyalty_score,preferred_brand
+C00001,Arunima Batra,Doctor,Ortho,North,North-T2,SR-NO06,267,0.9,ANA-21
+C00002,Hritik Bakshi,Doctor,Ortho,East,East-T8,SR-EA03,720,0.8,CAR-05
+C00003,Narayan LLC,Pharmacy,GP,West,West-T1,SR-WE08,527,0.52,CAR-05
+C00004,Manthan Kant,Doctor,Ortho,Central,Central-T4,SR-CE09,589,0.55,ANA-02
+C00005,Venkataraman Ltd,Pharmacy,ENT,South,South-T8,SR-SO07,454,0.39,DIA-16
+C00006,Yauvani Chandran,Doctor,ENT,Central,Central-T4,SR-CE09,295,0.82,CAR-10
+C00007,"Sastry, Bumb and Lad",Pharmacy,Cardiology,West,West-T7,SR-WE01,644,0.47,CAR-22
+C00008,"Randhawa, Andra and Ramanathan",Hospital,GP,North,North-T9,SR-NO09,793,0.7,RES-17
+C00009,Ekapad Kanda,Doctor,Pediatrics,Central,Central-T1,SR-CE01,758,0.76,ANA-12
+C00010,Charles Bawa,Doctor,GP,East,East-T6,SR-EA01,110,0.51,CAR-22
+C00011,Vedhika Kadakia,Doctor,Ortho,North,North-T9,SR-NO06,681,0.57,ANA-21
+C00012,Gokhale-Kale,Hospital,Pediatrics,South,South-T3,SR-SO08,355,0.88,ANA-03
+C00013,Ridhi Mahajan,Doctor,GP,West,West-T4,SR-WE01,495,0.93,DIA-11
+C00014,George Dara,Doctor,ENT,East,East-T8,SR-EA09,508,0.51,ANT-25
+C00015,Deepa Jani,Doctor,GP,South,South-T6,SR-SO05,461,0.53,ANA-12
+C00016,"Biswas, Khanna and Virk",Pharmacy,Pediatrics,West,West-T6,SR-WE07,358,0.98,DIA-16
+C00017,Bhavsar-Dar,Hospital,ENT,West,West-T5,SR-WE06,102,0.87,RES-24
+C00018,Qabil Lall,Doctor,Cardiology,West,West-T9,SR-WE02,183,0.54,RES-04
+C00019,Char-Lanka,Pharmacy,Ortho,North,North-T8,SR-NO06,255,0.74,CAR-14
+C00020,Chanakya Kakar,Doctor,GP,South,South-T6,SR-SO08,762,0.75,CAR-14
+C00021,Yug Anne,Doctor,Dermatology,East,East-T7,SR-EA01,275,0.59,RES-24
+C00022,Hritik Venkataraman,Doctor,ENT,South,South-T8,SR-SO01,571,0.37,ANA-03
+C00023,Chandresh Doctor,Doctor,ENT,South,South-T1,SR-SO06,718,0.74,CAR-22
+C00024,Yashica Peri,Doctor,GP,West,West-T3,SR-WE06,523,0.69,ANT-13
+C00025,Indrajit Sachdev,Doctor,GP,East,East-T1,SR-EA05,233,0.83,DIA-16
+C00026,"Dhaliwal, Ravi and Vaidya",Hospital,GP,Central,Central-T5,SR-CE07,479,0.85,ANA-23
+C00027,Lad and Sons,Hospital,Ortho,West,West-T8,SR-WE04,766,0.48,CAR-05
+C00028,Nakul Chanda,Doctor,Dermatology,North,North-T8,SR-NO08,376,1,CAR-22
+C00029,Sane-Arya,Pharmacy,ENT,East,East-T9,SR-EA06,335,0.54,CAR-10
+C00030,Loyal Group,Pharmacy,ENT,South,South-T4,SR-SO03,112,0.43,ANA-07
+C00031,Char-Palla,Pharmacy,GP,South,South-T6,SR-SO04,441,0.71,ANA-12
+C00032,Jeremiah Shankar,Doctor,GP,West,West-T2,SR-WE09,134,0.55,ANA-23
+C00033,Mugdha Kale,Doctor,Pediatrics,West,West-T2,SR-WE09,658,0.43,DIA-11
+C00034,Wazir Sampath,Doctor,ENT,North,North-T6,SR-NO08,313,0.43,ANT-25
+C00035,Shan and Sons,Pharmacy,Cardiology,Central,Central-T7,SR-CE03,511,0.68,ANA-02
+C00036,Nakul Chacko,Doctor,Cardiology,North,North-T3,SR-NO09,504,0.56,ANA-23
+C00037,"Anne, Biswas and Bora",Hospital,ENT,South,South-T5,SR-SO06,593,0.9,ANA-09
+C00038,Nilima Balakrishnan,Doctor,Dermatology,South,South-T5,SR-SO09,757,0.75,ANA-03
+C00039,Samuel Patil,Doctor,ENT,Central,Central-T3,SR-CE03,258,0.46,CAR-20
+C00040,Radhakrishnan Group,Pharmacy,ENT,Central,Central-T1,SR-CE06,736,0.89,ANA-01
+C00041,Thaman-Loyal,Hospital,ENT,North,North-T5,SR-NO01,209,0.77,ANT-25
+C00042,"Narasimhan, Bhavsar and Pai",Pharmacy,GP,Central,Central-T8,SR-CE07,648,0.93,ANA-18
+C00043,Dev Rau,Doctor,Dermatology,East,East-T7,SR-EA05,625,0.54,ANA-03
+C00044,Libni Shah,Doctor,Pediatrics,North,North-T8,SR-NO03,446,0.48,CAR-20
+C00045,"Sridhar, Kunda and Anand",Pharmacy,Ortho,South,South-T6,SR-SO06,735,0.98,CAR-05
+C00046,Bhavna Dewan,Doctor,Ortho,East,East-T4,SR-EA09,378,0.65,ANA-09
+C00047,Tara Rout,Doctor,GP,West,West-T5,SR-WE04,578,0.96,CAR-20
+C00048,Bali LLC,Hospital,Cardiology,West,West-T6,SR-WE04,210,0.96,RES-24
+C00049,"Narula, Bahl and Batra",Pharmacy,Pediatrics,East,East-T9,SR-EA04,735,0.65,CAR-10
+C00050,Bachittar Sengupta,Doctor,Pediatrics,West,West-T9,SR-WE01,530,0.65,CAR-08
+C00051,Aarush Dada,Doctor,Ortho,South,South-T8,SR-SO06,641,0.74,ANA-21
+C00052,Jai Ram,Doctor,GP,West,West-T7,SR-WE05,214,0.44,ANA-09
+C00053,Riya Gera,Doctor,Pediatrics,East,East-T1,SR-EA07,189,0.72,ANA-07
+C00054,Rachita Wason,Doctor,Pediatrics,East,East-T9,SR-EA09,311,0.64,ANA-18
+C00055,Charles Parmer,Doctor,GP,East,East-T7,SR-EA02,649,0.59,DIA-11
+C00056,"Kakar, Andra and Kannan",Pharmacy,Cardiology,Central,Central-T9,SR-CE06,694,0.61,ANA-02
+C00057,Anirudh Mann,Doctor,Ortho,North,North-T8,SR-NO01,638,0.69,CAR-05
+C00058,Wahab Raval,Doctor,ENT,Central,Central-T6,SR-CE09,459,0.46,CAR-20
+C00059,Rehaan Tak,Doctor,ENT,East,East-T9,SR-EA06,585,0.67,RES-19
+C00060,"Vala, Borra and Kalita",Pharmacy,Ortho,East,East-T6,SR-EA08,471,0.79,CAR-14
+C00061,Khanna LLC,Pharmacy,Dermatology,Central,Central-T1,SR-CE05,314,0.74,ANA-09
+C00062,"Khatri, Kala and Dube",Pharmacy,ENT,Central,Central-T8,SR-CE04,114,0.46,ANA-21
+C00063,Jai Suri,Doctor,Dermatology,Central,Central-T4,SR-CE07,358,0.37,ANA-23
+C00064,Jagrati Dash,Doctor,Ortho,North,North-T7,SR-NO04,562,0.45,ANA-23
+C00065,Devansh Kibe,Doctor,ENT,South,South-T8,SR-SO07,219,0.92,RES-24
+C00066,Devika Divan,Doctor,ENT,North,North-T6,SR-NO03,227,1,DIA-16
+C00067,Girik Nanda,Doctor,Cardiology,Central,Central-T8,SR-CE07,622,0.94,DIA-11
+C00068,Deol Inc,Pharmacy,Dermatology,Central,Central-T5,SR-CE06,787,0.75,ANA-07
+C00069,Saksham Bhatti,Doctor,Cardiology,South,South-T5,SR-SO05,744,0.85,ANA-23
+C00070,Aadhya Garg,Doctor,Ortho,South,South-T9,SR-SO08,424,0.96,RES-24
+C00071,Laban Tandon,Doctor,Dermatology,East,East-T9,SR-EA05,419,0.6,ANT-13
+C00072,Pavani Doctor,Doctor,Ortho,East,East-T2,SR-EA03,605,0.58,CAR-15
+C00073,Naksh Mammen,Doctor,ENT,East,East-T5,SR-EA08,625,0.96,ANA-23
+C00074,Falguni Hayer,Doctor,Dermatology,East,East-T4,SR-EA03,149,0.51,CAR-22
+C00075,Badami-Chaudhuri,Pharmacy,GP,Central,Central-T2,SR-CE04,683,0.62,ANA-23
+C00076,Ram-Mani,Pharmacy,Cardiology,West,West-T1,SR-WE02,168,0.98,RES-06
+C00077,Widisha Padmanabhan,Doctor,Cardiology,West,West-T5,SR-WE08,490,0.56,ANA-21
+C00078,"Gaba, Badal and Badal",Pharmacy,Cardiology,North,North-T9,SR-NO02,482,0.83,ANA-02
+C00079,"Suri, Lalla and Vig",Pharmacy,Cardiology,South,South-T1,SR-SO07,115,1,ANT-13
+C00080,Sachar Ltd,Hospital,Ortho,West,West-T1,SR-WE03,538,0.36,RES-19
+C00081,"Chadha, Viswanathan and Pandit",Hospital,Ortho,Central,Central-T5,SR-CE02,667,0.65,ANA-21
+C00082,Mitesh Srinivas,Doctor,Cardiology,Central,Central-T9,SR-CE09,716,0.65,ANA-07
+C00083,Faras Doctor,Doctor,Pediatrics,North,North-T5,SR-NO06,231,0.82,ANA-01
+C00084,Udant Mand,Doctor,Cardiology,East,East-T3,SR-EA05,659,0.75,ANA-21
+C00085,Madhav Murthy,Doctor,GP,West,West-T7,SR-WE07,347,0.79,RES-06
+C00086,Maanav Dugal,Doctor,Cardiology,South,South-T1,SR-SO08,372,0.52,CAR-08
+C00087,Peri and Sons,Hospital,Ortho,West,West-T1,SR-WE05,722,0.52,ANA-12
+C00088,"Pillay, Butala and Warrior",Pharmacy,Pediatrics,South,South-T5,SR-SO01,448,0.45,CAR-22
+C00089,"Khosla, Sarkar and Murty",Pharmacy,Dermatology,Central,Central-T5,SR-CE05,583,0.59,CAR-08
+C00090,Pranav Wable,Doctor,Pediatrics,South,South-T6,SR-SO03,649,0.62,ANA-18
+C00091,Magar LLC,Pharmacy,Cardiology,West,West-T4,SR-WE09,456,0.79,CAR-20
+C00092,Bhavika Lad,Doctor,Dermatology,North,North-T6,SR-NO09,417,0.4,RES-19
+C00093,Bains PLC,Pharmacy,ENT,North,North-T4,SR-NO01,732,0.72,CAR-05
+C00094,"Jaggi, Dewan and Mani",Pharmacy,Pediatrics,South,South-T2,SR-SO06,147,0.79,ANA-23
+C00095,Yoshita Khalsa,Doctor,ENT,Central,Central-T8,SR-CE08,109,0.88,CAR-15
+C00096,Jacob Sankar,Doctor,ENT,South,South-T1,SR-SO09,332,0.71,CAR-22
+C00097,Tarak Mannan,Doctor,GP,East,East-T4,SR-EA01,135,0.73,ANA-02
+C00098,Oak Inc,Pharmacy,ENT,West,West-T1,SR-WE06,512,0.96,ANA-03
+C00099,Amruta Taneja,Doctor,Cardiology,West,West-T3,SR-WE01,561,0.85,RES-24
+C00100,Konda-Wali,Hospital,Pediatrics,West,West-T8,SR-WE06,103,0.92,ANT-13
+C00101,Chaudry-Thaker,Pharmacy,Dermatology,West,West-T9,SR-WE02,143,0.44,ANA-12
+C00102,"Ben, Yadav and Nagy",Hospital,Pediatrics,North,North-T9,SR-NO03,667,0.43,CAR-08
+C00103,Biswas-Lad,Hospital,Pediatrics,North,North-T9,SR-NO01,653,0.63,ANT-13
+C00104,Brijesh Krishna,Doctor,Cardiology,South,South-T5,SR-SO04,354,0.47,RES-24
+C00105,"Mitter, Pai and Panchal",Pharmacy,Pediatrics,North,North-T1,SR-NO01,213,0.51,ANA-03
+C00106,Triveni Natarajan,Doctor,Dermatology,North,North-T1,SR-NO01,496,0.51,ANA-02
+C00107,Pahal Patla,Doctor,Cardiology,West,West-T1,SR-WE08,273,0.44,CAR-10
+C00108,Umang Setty,Doctor,Dermatology,South,South-T6,SR-SO06,354,0.5,CAR-05
+C00109,Jagrati Johal,Doctor,Ortho,Central,Central-T1,SR-CE04,565,0.71,RES-19
+C00110,Irya Sani,Doctor,GP,South,South-T6,SR-SO07,376,0.96,CAR-22
+C00111,Ira Dani,Doctor,Pediatrics,West,West-T7,SR-WE09,563,0.45,ANT-13
+C00112,Girish Trivedi,Doctor,Cardiology,South,South-T5,SR-SO09,601,0.91,CAR-05
+C00113,Qarin Vala,Doctor,Pediatrics,West,West-T9,SR-WE01,540,0.69,ANT-13
+C00114,Jason Buch,Doctor,Dermatology,South,South-T2,SR-SO05,168,0.95,ANA-12
+C00115,"Varughese, Comar and Bala",Pharmacy,Cardiology,North,North-T1,SR-NO09,608,0.52,CAR-22
+C00116,"Jain, Keer and Mohan",Pharmacy,Cardiology,Central,Central-T9,SR-CE01,425,0.49,ANA-07
+C00117,"Chaudhuri, Prabhakar and Sharaf",Hospital,GP,East,East-T4,SR-EA05,166,0.96,RES-24
+C00118,Murthy-Gokhale,Hospital,Dermatology,North,North-T4,SR-NO08,403,0.61,CAR-08
+C00119,"Palan, Rege and Chakraborty",Pharmacy,Pediatrics,Central,Central-T8,SR-CE06,583,0.7,ANA-12
+C00120,Dominic Hans,Doctor,Pediatrics,East,East-T8,SR-EA05,647,0.41,RES-24
+C00121,Mistry-Chand,Hospital,Ortho,West,West-T6,SR-WE06,516,0.62,RES-19
+C00122,Tanmayi Palla,Doctor,ENT,South,South-T7,SR-SO03,258,0.54,ANA-07
+C00123,Chavvi Kunda,Doctor,Cardiology,East,East-T8,SR-EA04,248,0.71,CAR-22
+C00124,Sundaram Inc,Pharmacy,Pediatrics,East,East-T8,SR-EA05,126,0.65,RES-24
+C00125,Sneha Patil,Doctor,ENT,East,East-T8,SR-EA03,683,0.47,ANA-18
+C00126,Keya Patel,Doctor,GP,North,North-T1,SR-NO09,347,0.85,CAR-14
+C00127,Naveen Ganesh,Doctor,Cardiology,South,South-T1,SR-SO04,200,0.49,CAR-15
+C00128,Kibe and Sons,Pharmacy,Dermatology,East,East-T8,SR-EA01,195,0.78,ANA-01
+C00129,Laban Shan,Doctor,GP,North,North-T1,SR-NO09,483,0.69,ANA-09
+C00130,Balhaar Ahuja,Doctor,Dermatology,Central,Central-T7,SR-CE05,381,0.87,RES-06
+C00131,Neha Patil,Doctor,Cardiology,North,North-T4,SR-NO02,421,0.75,ANA-09
+C00132,"Gill, Sharma and Salvi",Pharmacy,GP,East,East-T6,SR-EA05,495,0.97,CAR-15
+C00133,"Brahmbhatt, Baria and Kala",Hospital,Cardiology,Central,Central-T5,SR-CE04,377,0.79,ANA-03
+C00134,Zilmil Varty,Doctor,Pediatrics,North,North-T9,SR-NO02,628,0.66,ANA-21
+C00135,Vasatika Bava,Doctor,Pediatrics,North,North-T6,SR-NO03,362,0.72,RES-04
+C00136,Nandini Narain,Doctor,Dermatology,Central,Central-T8,SR-CE01,718,0.53,ANA-03
+C00137,Samesh Bath,Doctor,GP,East,East-T3,SR-EA09,679,0.95,DIA-11
+C00138,Vrinda Tella,Doctor,Dermatology,North,North-T7,SR-NO04,739,0.95,CAR-10
+C00139,Reyansh Kannan,Doctor,Pediatrics,South,South-T9,SR-SO04,392,0.57,ANT-25
+C00140,Vedhika Chad,Doctor,Ortho,South,South-T1,SR-SO02,393,0.41,CAR-08
+C00141,Chand-Chandran,Pharmacy,ENT,North,North-T7,SR-NO06,707,0.98,DIA-11
+C00142,Loke Inc,Pharmacy,Pediatrics,North,North-T8,SR-NO05,494,0.5,ANA-18
+C00143,Akshay Koshy,Doctor,ENT,West,West-T7,SR-WE07,612,0.41,CAR-20
+C00144,Sharma Inc,Pharmacy,GP,East,East-T5,SR-EA04,279,0.45,ANA-23
+C00145,Dhriti Dora,Doctor,GP,South,South-T2,SR-SO07,792,0.35,CAR-10
+C00146,Gara Inc,Pharmacy,GP,West,West-T3,SR-WE06,334,0.41,CAR-14
+C00147,Arjun Naidu,Doctor,Pediatrics,West,West-T2,SR-WE09,436,0.37,ANA-12
+C00148,Upasna Dyal,Doctor,Ortho,Central,Central-T7,SR-CE02,107,0.36,CAR-14
+C00149,Maharaj LLC,Pharmacy,ENT,West,West-T4,SR-WE02,542,0.72,RES-06
+C00150,Laksh Butala,Doctor,Ortho,West,West-T5,SR-WE03,638,0.67,ANA-03
+C00151,Jairaj Kashyap,Doctor,Ortho,South,South-T8,SR-SO07,757,0.86,ANA-12
+C00152,"Raman, Kade and Munshi",Pharmacy,Pediatrics,East,East-T4,SR-EA04,190,0.65,CAR-05
+C00153,"Kothari, Banerjee and Kapoor",Hospital,Ortho,East,East-T7,SR-EA01,371,0.87,DIA-11
+C00154,Dhruv Kaur,Doctor,Dermatology,West,West-T3,SR-WE06,104,0.55,CAR-20
+C00155,Naveen Mahal,Doctor,Pediatrics,South,South-T6,SR-SO08,693,0.54,ANA-23
+C00156,Shivansh Sami,Doctor,Ortho,West,West-T7,SR-WE04,318,0.59,RES-19
+C00157,Keya Bhatti,Doctor,ENT,South,South-T1,SR-SO09,217,0.97,CAR-15
+C00158,"Apte, Ahuja and Madan",Pharmacy,Dermatology,South,South-T2,SR-SO08,692,0.88,CAR-14
+C00159,"Bobal, Hayre and Chauhan",Pharmacy,Cardiology,West,West-T5,SR-WE03,681,0.78,ANA-23
+C00160,Unnati Natt,Doctor,ENT,West,West-T8,SR-WE07,214,0.73,ANA-18
+C00161,Naksh Wable,Doctor,Ortho,Central,Central-T9,SR-CE07,362,0.74,ANA-03
+C00162,Patla Inc,Pharmacy,Ortho,North,North-T3,SR-NO04,405,0.77,ANA-02
+C00163,"Majumdar, Savant and Venkatesh",Hospital,Ortho,Central,Central-T7,SR-CE07,753,0.42,RES-04
+C00164,Bakhshi Ben,Doctor,ENT,East,East-T9,SR-EA04,521,0.73,RES-19
+C00165,Jai Ramesh,Doctor,Pediatrics,South,South-T9,SR-SO08,306,0.45,ANA-01
+C00166,Abhiram Bansal,Doctor,GP,West,West-T2,SR-WE02,722,0.89,RES-24
+C00167,Rachit Venkataraman,Doctor,Pediatrics,South,South-T4,SR-SO06,402,0.69,ANA-12
+C00168,Advik Mani,Doctor,Dermatology,West,West-T8,SR-WE02,211,0.56,CAR-10
+C00169,Falguni Rajan,Doctor,Ortho,North,North-T2,SR-NO02,516,0.79,RES-06
+C00170,Vasana Pradhan,Doctor,Cardiology,South,South-T6,SR-SO09,654,0.71,CAR-15
+C00171,Lal PLC,Pharmacy,Cardiology,South,South-T7,SR-SO07,384,0.61,RES-24
+C00172,Ethan Mahal,Doctor,Pediatrics,Central,Central-T7,SR-CE04,739,0.35,ANA-07
+C00173,"Acharya, Ahluwalia and Sachar",Pharmacy,GP,South,South-T2,SR-SO05,284,0.87,ANA-18
+C00174,Sai Chaudhary,Doctor,Pediatrics,South,South-T2,SR-SO06,320,0.52,DIA-16
+C00175,Gaurang Talwar,Doctor,ENT,Central,Central-T7,SR-CE06,543,0.73,ANA-12
+C00176,Misra-Kumar,Pharmacy,Dermatology,East,East-T5,SR-EA08,216,0.95,RES-19
+C00177,Balendra Nadig,Doctor,Cardiology,North,North-T5,SR-NO03,169,0.43,ANA-12
+C00178,Ridhi Bhasin,Doctor,ENT,South,South-T3,SR-SO09,169,0.72,CAR-14
+C00179,"Ravel, Hans and Goswami",Pharmacy,Dermatology,South,South-T3,SR-SO08,721,0.71,DIA-16
+C00180,Zayyan Barman,Doctor,Pediatrics,East,East-T1,SR-EA03,526,0.91,ANA-01
+C00181,Baljiwan Kibe,Doctor,Pediatrics,West,West-T9,SR-WE03,743,0.68,DIA-16
+C00182,Falak Bhavsar,Doctor,Pediatrics,West,West-T8,SR-WE08,667,0.46,RES-19
+C00183,Eesha Sane,Doctor,Ortho,North,North-T4,SR-NO04,542,0.7,RES-06
+C00184,Chandresh Sha,Doctor,GP,West,West-T2,SR-WE08,700,0.52,ANA-18
+C00185,"Sundaram, Prabhu and Kala",Pharmacy,GP,East,East-T8,SR-EA09,236,0.71,CAR-14
+C00186,Nidhi Narain,Doctor,GP,North,North-T8,SR-NO04,603,0.52,ANA-03
+C00187,Randhawa Ltd,Pharmacy,Cardiology,West,West-T4,SR-WE02,230,0.88,RES-19
+C00188,Naveen Dhar,Doctor,Cardiology,East,East-T4,SR-EA07,317,0.88,ANA-02
+C00189,Anay Gill,Doctor,ENT,Central,Central-T9,SR-CE06,787,0.46,ANA-23
+C00190,Quincy Jhaveri,Doctor,ENT,East,East-T2,SR-EA05,270,0.44,ANT-25
+C00191,Sami-Sabharwal,Hospital,Dermatology,West,West-T3,SR-WE01,574,0.81,CAR-05
+C00192,"Minhas, Iyer and Bath",Pharmacy,Cardiology,South,South-T7,SR-SO03,711,0.67,RES-19
+C00193,Harrison Gopal,Doctor,GP,East,East-T2,SR-EA07,228,0.61,RES-24
+C00194,Udarsh Saha,Doctor,Pediatrics,East,East-T6,SR-EA06,156,0.73,ANT-25
+C00195,"Mital, Bava and Mishra",Pharmacy,Dermatology,North,North-T6,SR-NO08,280,0.9,ANA-18
+C00196,"Kumar, Kibe and Gill",Hospital,Cardiology,West,West-T8,SR-WE04,345,0.52,CAR-10
+C00197,Jyoti Salvi,Doctor,ENT,East,East-T8,SR-EA09,243,0.86,CAR-22
+C00198,Nisha Mandal,Doctor,Pediatrics,North,North-T1,SR-NO01,150,0.43,RES-06
+C00199,Veer Chanda,Doctor,Pediatrics,West,West-T4,SR-WE08,467,1,CAR-05
+C00200,Jain and Sons,Pharmacy,Ortho,East,East-T2,SR-EA03,558,0.78,ANA-09
+C00201,"Bajaj, Ray and Sunder",Pharmacy,Dermatology,North,North-T3,SR-NO06,317,0.38,ANA-21
+C00202,Keya Bhatia,Doctor,GP,East,East-T2,SR-EA04,715,0.35,DIA-16
+C00203,Gauri Dixit,Doctor,ENT,North,North-T8,SR-NO03,666,0.36,ANA-23
+C00204,"Shankar, Varghese and Johal",Hospital,Pediatrics,East,East-T3,SR-EA02,356,0.66,CAR-08
+C00205,Manda-Lal,Pharmacy,GP,West,West-T2,SR-WE02,255,0.55,CAR-10
+C00206,Sha and Sons,Pharmacy,Cardiology,South,South-T3,SR-SO07,664,0.39,RES-19
+C00207,Michael Shankar,Doctor,Dermatology,North,North-T4,SR-NO03,541,0.76,CAR-05
+C00208,"Bala, Thakur and Mandal",Pharmacy,GP,West,West-T2,SR-WE08,798,0.44,RES-04
+C00209,Yashasvi Joshi,Doctor,Pediatrics,Central,Central-T6,SR-CE07,761,0.86,CAR-08
+C00210,Yadavi Dey,Doctor,ENT,East,East-T5,SR-EA02,124,0.86,ANA-23
+C00211,Amaira Virk,Doctor,ENT,North,North-T9,SR-NO05,763,0.47,ANT-13
+C00212,Swamy-Magar,Pharmacy,Cardiology,East,East-T8,SR-EA01,635,0.6,CAR-08
+C00213,Zaitra Peri,Doctor,GP,West,West-T6,SR-WE02,159,0.96,CAR-05
+C00214,Christopher Mand,Doctor,Dermatology,West,West-T3,SR-WE07,566,0.85,ANT-25
+C00215,Ranveer Bumb,Doctor,GP,North,North-T5,SR-NO01,533,0.49,ANA-02
+C00216,Nidhi Subramaniam,Doctor,Dermatology,West,West-T9,SR-WE09,165,0.85,CAR-14
+C00217,Raj-Bose,Pharmacy,ENT,West,West-T3,SR-WE02,664,0.53,CAR-10
+C00218,Johal Ltd,Hospital,Cardiology,North,North-T9,SR-NO09,205,0.56,RES-19
+C00219,Rege-Grewal,Pharmacy,Dermatology,North,North-T4,SR-NO05,195,0.39,ANA-03
+C00220,Omya Bhakta,Doctor,ENT,West,West-T1,SR-WE02,787,0.55,RES-24
+C00221,Madhavi Ganesan,Doctor,Cardiology,South,South-T1,SR-SO02,650,0.46,ANA-12
+C00222,"Apte, Madan and Parikh",Pharmacy,Dermatology,Central,Central-T5,SR-CE09,267,0.46,CAR-05
+C00223,"Dasgupta, Dora and Deshmukh",Pharmacy,GP,East,East-T6,SR-EA02,141,0.87,ANA-09
+C00224,Dayita Gaba,Doctor,ENT,Central,Central-T2,SR-CE02,203,0.67,RES-17
+C00225,Akshay Minhas,Doctor,ENT,East,East-T3,SR-EA01,303,0.59,ANA-09
+C00226,Aryan Anne,Doctor,ENT,North,North-T1,SR-NO02,619,0.38,ANA-01
+C00227,Faraj Nadkarni,Doctor,Pediatrics,South,South-T3,SR-SO01,381,0.47,ANA-02
+C00228,Azaan Manda,Doctor,Cardiology,Central,Central-T7,SR-CE07,142,0.95,DIA-11
+C00229,Wahab Kibe,Doctor,GP,East,East-T9,SR-EA02,209,0.79,ANA-02
+C00230,"Seth, Iyer and Hari",Pharmacy,GP,South,South-T7,SR-SO04,309,0.39,CAR-15
+C00231,Dayamai Borah,Doctor,ENT,East,East-T8,SR-EA05,148,0.36,ANA-07
+C00232,Krishna-Bava,Pharmacy,Cardiology,East,East-T8,SR-EA05,214,0.59,DIA-16
+C00233,Vaidya-Hans,Pharmacy,Cardiology,South,South-T3,SR-SO09,254,0.35,CAR-14
+C00234,Ethan Biswas,Doctor,Dermatology,North,North-T1,SR-NO04,748,0.97,ANA-01
+C00235,Chandran Bhatti,Doctor,ENT,West,West-T4,SR-WE05,602,0.62,ANA-02
+C00236,Kashvi Kale,Doctor,Cardiology,South,South-T9,SR-SO05,778,0.62,ANA-12
+C00237,Yashodhara Halder,Doctor,ENT,West,West-T3,SR-WE02,170,0.76,ANT-13
+C00238,Zilmil Chakrabarti,Doctor,Cardiology,North,North-T4,SR-NO01,618,0.54,DIA-11
+C00239,Manthan Karnik,Doctor,Ortho,West,West-T4,SR-WE06,435,0.4,ANA-07
+C00240,Krisha Kuruvilla,Doctor,Cardiology,South,South-T8,SR-SO02,166,0.65,CAR-14
+C00241,Gayathri Dash,Doctor,Cardiology,North,North-T8,SR-NO09,592,0.55,ANA-09
+C00242,Wishi Kota,Doctor,Dermatology,North,North-T5,SR-NO02,749,0.89,ANA-23
+C00243,Ubika Sunder,Doctor,Ortho,Central,Central-T3,SR-CE01,312,0.41,CAR-08
+C00244,Arjun Saini,Doctor,Dermatology,East,East-T5,SR-EA07,280,0.52,RES-06
+C00245,Sastry-Koshy,Pharmacy,ENT,North,North-T9,SR-NO07,712,0.51,CAR-15
+C00246,Udyati Karnik,Doctor,GP,North,North-T4,SR-NO03,698,0.43,ANT-13
+C00247,Mugdha Keer,Doctor,Ortho,East,East-T2,SR-EA02,796,0.36,ANA-03
+C00248,"Lad, Mammen and Keer",Pharmacy,GP,South,South-T6,SR-SO08,702,0.43,CAR-15
+C00249,"Magar, Grewal and Iyengar",Hospital,Pediatrics,North,North-T7,SR-NO03,347,0.67,ANT-13
+C00250,Zarna Bajaj,Doctor,Cardiology,West,West-T5,SR-WE03,313,0.53,CAR-05
+C00251,"Acharya, Minhas and Rajagopal",Pharmacy,Pediatrics,North,North-T7,SR-NO04,458,0.92,DIA-16
+C00252,Charan Mittal,Doctor,Cardiology,North,North-T7,SR-NO02,348,0.48,RES-17
+C00253,Bhargava-Suri,Pharmacy,Pediatrics,South,South-T6,SR-SO09,737,0.66,DIA-16
+C00254,Tanish Bora,Doctor,Ortho,East,East-T3,SR-EA09,615,0.37,CAR-20
+C00255,Mangat-Swaminathan,Pharmacy,Ortho,South,South-T1,SR-SO01,187,0.88,DIA-16
+C00256,Dani and Sons,Pharmacy,Cardiology,Central,Central-T3,SR-CE06,762,0.42,CAR-22
+C00257,Daniel Pandit,Doctor,Dermatology,South,South-T1,SR-SO05,275,0.85,CAR-08
+C00258,Chandani Bajwa,Doctor,Cardiology,Central,Central-T3,SR-CE07,525,0.5,DIA-11
+C00259,"Soman, Dass and Kanda",Pharmacy,Ortho,East,East-T3,SR-EA01,702,0.72,ANA-07
+C00260,Elijah Sehgal,Doctor,Pediatrics,West,West-T1,SR-WE09,180,0.41,CAR-08
+C00261,Priya Saha,Doctor,Pediatrics,Central,Central-T1,SR-CE04,237,0.57,CAR-20
+C00262,Jagrati Soni,Doctor,Cardiology,South,South-T6,SR-SO03,532,0.39,CAR-05
+C00263,Luthra-Virk,Pharmacy,ENT,Central,Central-T6,SR-CE03,569,0.97,ANA-12
+C00264,Sneha Bhavsar,Doctor,Ortho,West,West-T3,SR-WE02,449,0.98,RES-24
+C00265,"Amble, Sastry and Jhaveri",Pharmacy,Cardiology,West,West-T9,SR-WE08,225,0.8,CAR-20
+C00266,"Bhandari, Wable and Thakkar",Pharmacy,Cardiology,East,East-T7,SR-EA04,408,0.55,ANA-23
+C00267,Amaira Sama,Doctor,GP,East,East-T7,SR-EA03,329,0.9,ANT-25
+C00268,Janani Chahal,Doctor,Ortho,Central,Central-T4,SR-CE01,559,0.77,RES-04
+C00269,Gautam Deol,Doctor,GP,West,West-T4,SR-WE03,444,0.58,DIA-11
+C00270,Varma-Vasa,Pharmacy,Dermatology,South,South-T6,SR-SO02,409,0.64,ANA-09
+C00271,Tiwari-Dey,Pharmacy,Ortho,South,South-T5,SR-SO04,119,0.86,RES-24
+C00272,Pranav Dara,Doctor,Dermatology,North,North-T7,SR-NO01,660,0.98,CAR-14
+C00273,Nikita Saraf,Doctor,Pediatrics,West,West-T2,SR-WE07,746,0.89,RES-19
+C00274,Dev Mangat,Doctor,GP,South,South-T5,SR-SO03,640,0.36,ANA-09
+C00275,Jagdish Kamdar,Doctor,Pediatrics,North,North-T3,SR-NO02,659,0.83,ANA-18
+C00276,Prisha Rama,Doctor,ENT,North,North-T8,SR-NO06,576,0.81,CAR-14
+C00277,Nicholas Doshi,Doctor,GP,South,South-T6,SR-SO07,368,0.48,ANA-07
+C00278,Bava-Bora,Pharmacy,Dermatology,West,West-T9,SR-WE09,102,0.52,CAR-10
+C00279,Vedant Devan,Doctor,Pediatrics,East,East-T9,SR-EA04,115,0.9,CAR-05
+C00280,Raagini Gala,Doctor,GP,North,North-T5,SR-NO06,705,0.89,ANA-21
+C00281,Leena Bhagat,Doctor,GP,Central,Central-T4,SR-CE08,457,0.46,CAR-10
+C00282,Devi-Gala,Pharmacy,Ortho,North,North-T7,SR-NO08,745,0.66,CAR-22
+C00283,Sachar Group,Pharmacy,Pediatrics,East,East-T3,SR-EA02,232,0.59,ANT-13
+C00284,Qabil Dhawan,Doctor,Ortho,East,East-T8,SR-EA03,411,0.65,CAR-08
+C00285,Hiral Raval,Doctor,Dermatology,East,East-T2,SR-EA01,581,0.41,ANA-12
+C00286,Badal-Doctor,Hospital,ENT,Central,Central-T4,SR-CE07,643,0.71,ANT-13
+C00287,Yadav-Hayre,Hospital,Dermatology,Central,Central-T8,SR-CE07,404,0.72,CAR-08
+C00288,Gaurang Ramesh,Doctor,Dermatology,West,West-T1,SR-WE05,368,0.68,RES-17
+C00289,Vanya Sundaram,Doctor,Pediatrics,Central,Central-T3,SR-CE03,513,0.97,RES-06
+C00290,Chanchal Lalla,Doctor,Pediatrics,South,South-T2,SR-SO04,124,0.99,CAR-14
+C00291,"Minhas, Sane and Walla",Pharmacy,Ortho,South,South-T6,SR-SO03,415,0.94,ANA-03
+C00292,Yochana Lanka,Doctor,ENT,North,North-T6,SR-NO07,670,0.91,RES-17
+C00293,"Shah, Hora and Korpal",Pharmacy,ENT,West,West-T9,SR-WE01,767,0.86,RES-04
+C00294,Gabriel Bhagat,Doctor,ENT,West,West-T2,SR-WE03,375,0.95,RES-19
+C00295,"Parekh, Ghose and Kannan",Pharmacy,Ortho,North,North-T7,SR-NO05,488,0.52,ANA-21
+C00296,Arunima Singhal,Doctor,Ortho,West,West-T7,SR-WE08,543,0.44,CAR-20
+C00297,Tejas Sarma,Doctor,Ortho,West,West-T4,SR-WE01,526,0.38,DIA-16
+C00298,Shivansh Bhattacharyya,Doctor,Ortho,East,East-T5,SR-EA06,156,0.53,DIA-16
+C00299,Vinaya Chacko,Doctor,Dermatology,North,North-T8,SR-NO04,796,0.85,DIA-11
+C00300,Iyer-Om,Pharmacy,GP,East,East-T4,SR-EA07,665,0.64,CAR-14
+C00301,Jaggi and Sons,Pharmacy,GP,West,West-T9,SR-WE09,467,0.86,ANA-03
+C00302,Arin Kuruvilla,Doctor,ENT,East,East-T1,SR-EA09,441,0.46,ANA-07
+C00303,Tamanna Devan,Doctor,GP,North,North-T6,SR-NO04,403,0.81,ANA-09
+C00304,Reyansh Kashyap,Doctor,Dermatology,East,East-T2,SR-EA08,473,0.79,CAR-08
+C00305,Ekalinga Borah,Doctor,Cardiology,East,East-T8,SR-EA08,211,0.73,ANA-12
+C00306,"Soman, Chander and Rau",Pharmacy,Ortho,East,East-T2,SR-EA03,105,0.54,ANT-13
+C00307,"Datta, Basu and Kuruvilla",Pharmacy,Cardiology,North,North-T4,SR-NO03,378,0.77,CAR-22
+C00308,Kanda LLC,Pharmacy,ENT,South,South-T1,SR-SO05,481,0.91,ANT-25
+C00309,"Munshi, Shenoy and Modi",Hospital,Dermatology,North,North-T3,SR-NO08,112,0.74,ANA-01
+C00310,Babu LLC,Pharmacy,Ortho,South,South-T5,SR-SO05,402,0.63,ANT-13
+C00311,Samarth Tailor,Doctor,Pediatrics,East,East-T5,SR-EA08,655,0.79,CAR-20
+C00312,Theodore Nath,Doctor,Dermatology,West,West-T6,SR-WE02,716,0.71,CAR-20
+C00313,Sarthak Datta,Doctor,GP,Central,Central-T8,SR-CE05,259,0.39,ANA-09
+C00314,Parth Mander,Doctor,Dermatology,East,East-T5,SR-EA05,253,0.47,RES-17
+C00315,Kara-Sama,Pharmacy,ENT,South,South-T7,SR-SO01,280,0.78,CAR-22
+C00316,Ramakrishnan-Nayak,Pharmacy,Ortho,South,South-T5,SR-SO01,625,0.94,ANT-13
+C00317,Ekantika Sundaram,Doctor,ENT,West,West-T4,SR-WE01,279,0.57,ANA-23
+C00318,Mahal-Dar,Pharmacy,Pediatrics,South,South-T6,SR-SO09,476,0.68,RES-06
+C00319,Ikshita Lata,Doctor,Pediatrics,Central,Central-T3,SR-CE03,267,0.83,RES-24
+C00320,Atwal-Dani,Hospital,Ortho,Central,Central-T2,SR-CE03,313,0.49,CAR-08
+C00321,"Verma, Padmanabhan and Kara",Pharmacy,Ortho,East,East-T6,SR-EA07,249,0.52,CAR-10
+C00322,Ishani Dora,Doctor,Dermatology,West,West-T2,SR-WE02,115,0.66,ANA-07
+C00323,Nigam PLC,Pharmacy,Pediatrics,Central,Central-T9,SR-CE02,190,0.54,ANA-02
+C00324,Kashyap-Malhotra,Hospital,Ortho,South,South-T7,SR-SO03,219,0.99,CAR-15
+C00325,Brar LLC,Pharmacy,Cardiology,South,South-T2,SR-SO06,352,0.67,ANA-21
+C00326,"Mukhopadhyay, Murthy and Koshy",Pharmacy,GP,South,South-T8,SR-SO06,159,0.53,ANT-25
+C00327,Chandresh Dugal,Doctor,GP,South,South-T3,SR-SO03,365,0.75,ANA-21
+C00328,Ekalinga Zacharia,Doctor,Pediatrics,West,West-T7,SR-WE07,508,0.35,ANA-18
+C00329,Kumar Group,Hospital,Ortho,South,South-T9,SR-SO06,130,0.47,CAR-22
+C00330,Maanav Murthy,Doctor,Ortho,North,North-T5,SR-NO04,120,0.43,ANT-13
+C00331,Unnati Krishnan,Doctor,GP,Central,Central-T5,SR-CE05,692,0.97,CAR-15
+C00332,Yachana Morar,Doctor,Dermatology,Central,Central-T3,SR-CE09,388,0.57,DIA-16
+C00333,Guneet Sankaran,Doctor,Pediatrics,East,East-T1,SR-EA04,642,0.5,RES-24
+C00334,Kohli-Sachar,Pharmacy,ENT,South,South-T9,SR-SO04,597,0.46,ANA-12
+C00335,Mukhopadhyay-Sastry,Pharmacy,Ortho,North,North-T9,SR-NO07,573,0.76,CAR-20
+C00336,Nagar PLC,Pharmacy,GP,North,North-T1,SR-NO02,504,0.8,CAR-14
+C00337,Dakshesh Choudhry,Doctor,Ortho,West,West-T8,SR-WE07,647,0.81,ANA-07
+C00338,Osha Bava,Doctor,GP,North,North-T9,SR-NO05,231,0.53,CAR-20
+C00339,Sachdeva-Wable,Pharmacy,GP,South,South-T9,SR-SO07,423,0.82,RES-04
+C00340,Pandey Inc,Pharmacy,Pediatrics,East,East-T4,SR-EA02,231,0.75,ANT-25
+C00341,"Babu, Bhargava and Saini",Hospital,Ortho,East,East-T7,SR-EA09,620,0.54,ANA-02
+C00342,"Halder, Sur and Misra",Hospital,Dermatology,Central,Central-T8,SR-CE08,129,0.56,ANA-01
+C00343,"Balay, Krish and Kara",Hospital,ENT,North,North-T8,SR-NO02,726,0.45,ANA-03
+C00344,Peri-Goyal,Pharmacy,GP,Central,Central-T5,SR-CE02,400,0.77,CAR-15
+C00345,Damyanti Wali,Doctor,GP,East,East-T3,SR-EA05,103,0.92,CAR-10
+C00346,Omya Deep,Doctor,GP,East,East-T2,SR-EA06,424,0.9,ANA-02
+C00347,Hayre-Samra,Pharmacy,Cardiology,North,North-T6,SR-NO03,608,0.58,CAR-15
+C00348,Chana Ltd,Pharmacy,GP,Central,Central-T6,SR-CE05,336,0.88,RES-06
+C00349,Yagnesh Taneja,Doctor,Pediatrics,North,North-T5,SR-NO07,634,0.89,ANA-23
+C00350,Mohanty Inc,Pharmacy,Cardiology,West,West-T2,SR-WE07,115,0.44,RES-24
+C00351,Shivansh Amble,Doctor,ENT,North,North-T8,SR-NO03,633,0.87,CAR-22
+C00352,"Varkey, Gaba and Gaba",Pharmacy,Ortho,West,West-T1,SR-WE03,683,0.91,RES-24
+C00353,Lad and Sons,Hospital,GP,South,South-T7,SR-SO08,545,0.64,ANA-03
+C00354,Tejas Pradhan,Doctor,Dermatology,East,East-T9,SR-EA06,602,0.85,RES-19
+C00355,Acharya-Borah,Hospital,Dermatology,Central,Central-T6,SR-CE04,329,0.69,ANA-23
+C00356,Ekanta Jha,Doctor,Dermatology,Central,Central-T4,SR-CE02,206,0.66,CAR-22
+C00357,Sibal-Koshy,Pharmacy,ENT,West,West-T1,SR-WE03,488,0.36,RES-06
+C00358,"Deshpande, Kapadia and Garg",Pharmacy,Cardiology,Central,Central-T2,SR-CE08,362,0.84,DIA-11
+C00359,Bala Inc,Hospital,GP,South,South-T9,SR-SO06,662,0.49,ANA-21
+C00360,Naidu Ltd,Pharmacy,GP,West,West-T8,SR-WE07,164,0.64,RES-19
+C00361,Lall and Sons,Pharmacy,Pediatrics,West,West-T6,SR-WE02,364,0.43,DIA-16
+C00362,Shivansh Sehgal,Doctor,GP,North,North-T9,SR-NO02,437,0.71,ANA-03
+C00363,Kata-Randhawa,Pharmacy,ENT,Central,Central-T4,SR-CE05,400,0.78,CAR-15
+C00364,"Goyal, Bedi and Barad",Pharmacy,Cardiology,East,East-T8,SR-EA06,477,0.57,ANT-25
+C00365,"Sampath, Rege and Raman",Pharmacy,Ortho,Central,Central-T8,SR-CE08,274,0.42,ANT-25
+C00366,Laksh Johal,Doctor,Dermatology,South,South-T5,SR-SO01,251,0.71,ANA-12
+C00367,"Natarajan, Mall and Khalsa",Pharmacy,Pediatrics,North,North-T3,SR-NO01,575,0.88,RES-24
+C00368,Nirja Dass,Doctor,Cardiology,West,West-T4,SR-WE02,365,0.43,ANT-13
+C00369,"Mallick, Raman and Mody",Pharmacy,Cardiology,South,South-T6,SR-SO08,428,0.42,CAR-14
+C00370,Tandon Group,Pharmacy,Pediatrics,North,North-T8,SR-NO02,262,0.78,RES-17
+C00371,Umang Varty,Doctor,Dermatology,South,South-T1,SR-SO08,537,0.71,CAR-14
+C00372,Garg-Nori,Hospital,Cardiology,Central,Central-T3,SR-CE08,442,0.82,CAR-05
+C00373,Ravel Ltd,Pharmacy,ENT,North,North-T6,SR-NO07,466,0.68,ANT-13
+C00374,Hardik Hayer,Doctor,Ortho,West,West-T5,SR-WE04,564,0.64,CAR-05
+C00375,Walia and Sons,Pharmacy,Dermatology,South,South-T9,SR-SO07,298,0.54,ANA-23
+C00376,Ratti Ltd,Pharmacy,ENT,Central,Central-T4,SR-CE06,599,0.48,CAR-20
+C00377,Sachdeva-Ratti,Hospital,Cardiology,East,East-T3,SR-EA06,115,0.68,ANA-23
+C00378,"Dayal, Om and Golla",Pharmacy,ENT,East,East-T8,SR-EA02,395,0.73,CAR-22
+C00379,Widisha Chana,Doctor,Pediatrics,West,West-T1,SR-WE09,610,0.69,ANA-01
+C00380,Vyanjana Loke,Doctor,GP,West,West-T4,SR-WE03,338,0.52,RES-06
+C00381,Sanaya Mukherjee,Doctor,GP,East,East-T5,SR-EA05,680,0.48,ANA-18
+C00382,"Shetty, Aggarwal and Khare",Pharmacy,GP,North,North-T9,SR-NO06,400,0.91,RES-24
+C00383,Quincy Bir,Doctor,Dermatology,Central,Central-T5,SR-CE07,105,0.8,ANA-02
+C00384,Fiyaz Ghose,Doctor,Dermatology,West,West-T6,SR-WE07,319,0.98,ANA-02
+C00385,Chandran Rana,Doctor,Pediatrics,North,North-T4,SR-NO05,552,0.94,ANA-23
+C00386,"Ahuja, Dash and Kade",Pharmacy,Cardiology,East,East-T4,SR-EA09,532,0.54,RES-06
+C00387,Som Ltd,Hospital,Dermatology,North,North-T9,SR-NO03,485,0.43,ANA-02
+C00388,Samarth Sastry,Doctor,Cardiology,West,West-T3,SR-WE05,718,0.73,ANA-09
+C00389,Qadim Vyas,Doctor,Cardiology,North,North-T1,SR-NO06,394,0.45,DIA-11
+C00390,"Deo, Doctor and Bains",Pharmacy,Dermatology,Central,Central-T5,SR-CE01,217,0.67,RES-19
+C00391,Teerth Lala,Doctor,Dermatology,Central,Central-T6,SR-CE06,504,0.69,RES-06
+C00392,Sood-Bala,Pharmacy,Cardiology,Central,Central-T7,SR-CE02,779,0.7,ANT-13
+C00393,Fitan Bumb,Doctor,Cardiology,North,North-T6,SR-NO06,693,0.57,CAR-10
+C00394,Tejas Gole,Doctor,ENT,South,South-T1,SR-SO09,665,0.42,ANA-12
+C00395,Radhakrishnan Inc,Hospital,ENT,West,West-T4,SR-WE04,111,0.97,CAR-22
+C00396,"Patil, Lanka and Natt",Hospital,GP,East,East-T7,SR-EA07,308,0.52,RES-24
+C00397,"Rajagopalan, Master and Trivedi",Hospital,Ortho,East,East-T9,SR-EA01,264,0.87,CAR-15
+C00398,Sai Dhingra,Doctor,Dermatology,West,West-T4,SR-WE01,393,0.56,ANA-03
+C00399,Parikh-Ganguly,Hospital,ENT,North,North-T9,SR-NO03,618,0.35,ANA-03
+C00400,Dutt LLC,Pharmacy,Pediatrics,South,South-T2,SR-SO04,177,0.48,ANA-23
+C00401,Chahal-Chatterjee,Pharmacy,Cardiology,West,West-T1,SR-WE02,533,0.65,DIA-11
+C00402,Amruta Trivedi,Doctor,Cardiology,North,North-T5,SR-NO02,676,0.71,RES-19
+C00403,Frado Datta,Doctor,Pediatrics,South,South-T7,SR-SO05,713,0.63,ANA-01
+C00404,Ishani Kala,Doctor,Dermatology,West,West-T2,SR-WE02,782,0.84,RES-19
+C00405,Ubika Hans,Doctor,ENT,North,North-T2,SR-NO02,176,0.54,CAR-22
+C00406,Krishna Ramaswamy,Doctor,Pediatrics,East,East-T7,SR-EA02,147,0.61,CAR-22
+C00407,Raksha Tripathi,Doctor,Cardiology,North,North-T3,SR-NO08,181,0.84,ANA-18
+C00408,Nitesh Dutta,Doctor,Dermatology,East,East-T6,SR-EA03,308,0.97,ANA-01
+C00409,Ethan Chandran,Doctor,GP,Central,Central-T1,SR-CE09,544,0.72,ANT-13
+C00410,Wali-Desai,Hospital,Ortho,Central,Central-T4,SR-CE09,695,0.84,RES-24
+C00411,Vasana Rao,Doctor,Dermatology,East,East-T9,SR-EA04,621,0.44,RES-06
+C00412,Fitan Purohit,Doctor,Cardiology,South,South-T1,SR-SO05,128,0.9,ANA-18
+C00413,Hemal Bhavsar,Doctor,Dermatology,West,West-T2,SR-WE09,403,0.51,ANA-07
+C00414,Uppal-Thakur,Hospital,Ortho,Central,Central-T3,SR-CE08,564,0.79,CAR-08
+C00415,Dayal-Shroff,Pharmacy,Cardiology,North,North-T6,SR-NO05,601,0.67,DIA-11
+C00416,"Issac, Bose and Sane",Pharmacy,Cardiology,Central,Central-T6,SR-CE05,545,0.88,CAR-14
+C00417,Lopa Yogi,Doctor,Cardiology,South,South-T7,SR-SO01,727,0.53,ANA-12
+C00418,Tak and Sons,Pharmacy,Pediatrics,South,South-T8,SR-SO06,589,0.58,CAR-10
+C00419,Joshua Chaudry,Doctor,Dermatology,West,West-T2,SR-WE09,527,0.9,CAR-05
+C00420,Anthony Nanda,Doctor,Dermatology,Central,Central-T2,SR-CE04,658,0.82,ANA-01
+C00421,Chakrabarti-Tak,Pharmacy,ENT,Central,Central-T7,SR-CE01,458,0.85,ANA-07
+C00422,Oviya Edwin,Doctor,ENT,North,North-T8,SR-NO09,190,0.78,CAR-05
+C00423,Divya Kaur,Doctor,ENT,East,East-T5,SR-EA07,152,0.44,RES-17
+C00424,Ekiya Warrior,Doctor,ENT,Central,Central-T1,SR-CE02,688,0.78,CAR-20
+C00425,Anay Mukherjee,Doctor,Cardiology,South,South-T3,SR-SO09,303,0.72,RES-19
+C00426,Edwin Ltd,Hospital,GP,South,South-T4,SR-SO08,655,0.84,CAR-08
+C00427,Garima Sekhon,Doctor,GP,North,North-T4,SR-NO05,255,0.69,ANA-12
+C00428,"Subramaniam, Nanda and Karpe",Hospital,GP,West,West-T1,SR-WE08,101,0.99,DIA-11
+C00429,Narula-Peri,Pharmacy,Ortho,North,North-T5,SR-NO09,456,0.73,RES-19
+C00430,"Chandran, Rege and Mital",Pharmacy,Ortho,South,South-T2,SR-SO07,668,0.69,ANT-13
+C00431,Upasna Barad,Doctor,Ortho,South,South-T8,SR-SO09,157,0.87,CAR-20
+C00432,"Choudhury, Ramakrishnan and Bhatt",Pharmacy,Pediatrics,North,North-T3,SR-NO09,353,0.5,RES-17
+C00433,Ishanvi Mittal,Doctor,Cardiology,East,East-T6,SR-EA04,279,0.74,RES-04
+C00434,Chowdhury PLC,Pharmacy,Dermatology,South,South-T2,SR-SO07,592,0.66,DIA-16
+C00435,Saumya Shanker,Doctor,Dermatology,West,West-T7,SR-WE04,768,0.36,ANA-02
+C00436,Maanas Prashad,Doctor,ENT,South,South-T1,SR-SO03,134,0.93,CAR-05
+C00437,Yash Rama,Doctor,Cardiology,North,North-T9,SR-NO03,174,0.97,CAR-20
+C00438,Sen LLC,Pharmacy,Dermatology,Central,Central-T5,SR-CE01,388,0.97,ANA-07
+C00439,Sibal-Sangha,Pharmacy,Cardiology,West,West-T4,SR-WE08,470,0.89,CAR-20
+C00440,Bal-Chada,Pharmacy,ENT,South,South-T5,SR-SO03,686,0.46,CAR-22
+C00441,Rachana Saha,Doctor,GP,East,East-T4,SR-EA08,428,0.6,CAR-05
+C00442,Abhiram Chauhan,Doctor,ENT,North,North-T7,SR-NO01,689,0.89,CAR-20
+C00443,Mitesh Panchal,Doctor,ENT,North,North-T1,SR-NO03,403,0.92,ANA-18
+C00444,Max Mander,Doctor,Dermatology,Central,Central-T3,SR-CE02,678,0.94,ANA-18
+C00445,Ekalinga Mittal,Doctor,Ortho,North,North-T1,SR-NO07,320,0.8,CAR-14
+C00446,Mangat LLC,Pharmacy,Pediatrics,South,South-T6,SR-SO08,263,0.73,RES-24
+C00447,Mahika Shukla,Doctor,Ortho,Central,Central-T8,SR-CE02,579,0.85,ANA-03
+C00448,Raghav Balakrishnan,Doctor,Cardiology,East,East-T1,SR-EA09,554,0.81,ANA-01
+C00449,Girindra Manda,Doctor,GP,Central,Central-T7,SR-CE09,474,0.78,ANA-23
+C00450,Priya Deshmukh,Doctor,Cardiology,East,East-T7,SR-EA07,319,0.77,ANA-09
+C00451,Leena Merchant,Doctor,Ortho,East,East-T5,SR-EA09,783,0.99,ANT-13
+C00452,Dhruv Dalal,Doctor,ENT,South,South-T8,SR-SO07,353,0.47,ANA-18
+C00453,Neha Choudhury,Doctor,Ortho,Central,Central-T6,SR-CE08,287,0.85,ANT-13
+C00454,"Virk, Iyengar and Palla",Pharmacy,Pediatrics,South,South-T3,SR-SO02,290,0.42,RES-17
+C00455,"Dalal, Palla and Gupta",Pharmacy,ENT,West,West-T1,SR-WE06,488,0.45,ANA-21
+C00456,"Bava, Nath and Bhagat",Pharmacy,Pediatrics,North,North-T7,SR-NO02,314,0.41,ANA-09
+C00457,Panini Sangha,Doctor,GP,South,South-T7,SR-SO06,474,0.95,ANT-13
+C00458,Vansha Devan,Doctor,ENT,Central,Central-T1,SR-CE09,185,0.96,RES-06
+C00459,Parth Prabhu,Doctor,Dermatology,West,West-T9,SR-WE08,573,0.54,ANA-02
+C00460,Edhitha Sankaran,Doctor,Cardiology,Central,Central-T3,SR-CE09,717,0.79,ANA-12
+C00461,Randhawa and Sons,Hospital,GP,South,South-T5,SR-SO01,630,0.86,ANA-12
+C00462,Gaurika Agrawal,Doctor,ENT,West,West-T1,SR-WE07,146,0.83,ANA-03
+C00463,Gopal Dave,Doctor,ENT,North,North-T6,SR-NO09,164,0.58,ANA-09
+C00464,Utkarsh Desai,Doctor,Pediatrics,South,South-T1,SR-SO04,574,0.52,CAR-14
+C00465,Ekapad Bala,Doctor,ENT,Central,Central-T5,SR-CE02,245,0.57,RES-04
+C00466,Boase Inc,Pharmacy,ENT,Central,Central-T5,SR-CE05,481,0.8,ANT-13
+C00467,"Gala, Dey and Bedi",Pharmacy,Ortho,Central,Central-T8,SR-CE08,165,0.79,RES-19
+C00468,Tanmayi Cheema,Doctor,GP,North,North-T7,SR-NO08,616,0.76,CAR-08
+C00469,Charita Contractor,Doctor,Ortho,South,South-T9,SR-SO06,192,0.7,ANA-23
+C00470,Jeremiah Ganesan,Doctor,Pediatrics,East,East-T6,SR-EA04,525,0.4,RES-06
+C00471,Damyanti Kar,Doctor,ENT,West,West-T5,SR-WE06,567,0.47,RES-24
+C00472,Chauhan-Gokhale,Pharmacy,Cardiology,South,South-T4,SR-SO08,193,0.92,ANA-07
+C00473,Mahajan-Batta,Pharmacy,ENT,South,South-T6,SR-SO04,717,0.45,RES-04
+C00474,Shah-Mani,Pharmacy,Dermatology,North,North-T8,SR-NO02,232,0.75,ANT-25
+C00475,"Grover, Barman and Bhardwaj",Pharmacy,Ortho,Central,Central-T6,SR-CE01,533,0.67,RES-19
+C00476,Wishi Pai,Doctor,ENT,East,East-T5,SR-EA08,440,0.61,ANT-25
+C00477,Urvashi Tandon,Doctor,Pediatrics,Central,Central-T8,SR-CE03,413,0.96,ANA-02
+C00478,Leela Rattan,Doctor,Dermatology,Central,Central-T3,SR-CE06,690,0.65,RES-04
+C00479,Darpan Mukhopadhyay,Doctor,GP,Central,Central-T1,SR-CE08,311,0.79,ANT-13
+C00480,Watika Jhaveri,Doctor,ENT,Central,Central-T5,SR-CE02,619,0.47,ANA-09
+C00481,Lavanya Doctor,Doctor,ENT,South,South-T6,SR-SO05,258,0.59,DIA-16
+C00482,Chakradhar Vyas,Doctor,Ortho,West,West-T6,SR-WE04,367,0.91,ANA-09
+C00483,Varenya Ramachandran,Doctor,ENT,West,West-T4,SR-WE03,760,0.88,RES-24
+C00484,Kevin Kalla,Doctor,Pediatrics,East,East-T4,SR-EA04,702,0.44,RES-24
+C00485,Zacharia-Kaul,Pharmacy,Cardiology,South,South-T7,SR-SO08,573,0.67,ANA-21
+C00486,"Lad, Sur and Apte",Pharmacy,Pediatrics,Central,Central-T5,SR-CE09,509,0.51,RES-19
+C00487,Anthony Soni,Doctor,Cardiology,North,North-T1,SR-NO07,573,0.49,ANA-09
+C00488,Mekhala Ganesan,Doctor,Ortho,West,West-T5,SR-WE02,455,0.58,ANA-18
+C00489,Upadhriti Narang,Doctor,Pediatrics,Central,Central-T2,SR-CE05,779,0.58,CAR-22
+C00490,Hritik Natarajan,Doctor,Dermatology,Central,Central-T9,SR-CE04,292,0.46,ANT-25
+C00491,Jack Pingle,Doctor,ENT,East,East-T8,SR-EA06,798,0.85,CAR-15
+C00492,Warrior LLC,Pharmacy,Pediatrics,North,North-T3,SR-NO07,370,0.91,ANA-21
+C00493,Morar Group,Pharmacy,ENT,East,East-T7,SR-EA07,213,0.9,ANA-03
+C00494,Prisha Karnik,Doctor,Ortho,North,North-T6,SR-NO03,622,0.77,ANA-23
+C00495,Kashish Sethi,Doctor,Pediatrics,East,East-T6,SR-EA07,154,0.84,RES-17
+C00496,Gaurika Chand,Doctor,GP,West,West-T3,SR-WE07,164,0.82,CAR-22
+C00497,Damini Kant,Doctor,Pediatrics,East,East-T2,SR-EA02,783,0.41,DIA-16
+C00498,Ekta Chatterjee,Doctor,Pediatrics,Central,Central-T9,SR-CE01,371,0.85,ANA-03
+C00499,Mitter-Kadakia,Pharmacy,GP,North,North-T7,SR-NO05,601,0.55,CAR-08
+C00500,Arora-Seshadri,Pharmacy,Cardiology,East,East-T9,SR-EA08,761,0.9,ANA-01
+C00501,Dube and Sons,Pharmacy,Ortho,North,North-T8,SR-NO06,461,0.65,ANA-18
+C00502,Joshua Wason,Doctor,Dermatology,East,East-T9,SR-EA09,245,0.47,CAR-20
+C00503,Wyatt Ranganathan,Doctor,Dermatology,West,West-T9,SR-WE07,308,0.55,ANA-12
+C00504,Onkar Sarin,Doctor,GP,West,West-T8,SR-WE09,385,0.55,CAR-14
+C00505,Indrajit Shetty,Doctor,GP,East,East-T9,SR-EA03,109,0.88,CAR-05
+C00506,Harish Bajwa,Doctor,GP,East,East-T8,SR-EA05,285,0.97,DIA-16
+C00507,"Narayanan, Keer and Loke",Pharmacy,Ortho,East,East-T4,SR-EA01,673,0.87,ANA-18
+C00508,Nitesh Sengupta,Doctor,ENT,East,East-T7,SR-EA04,696,0.61,RES-06
+C00509,Harini Agarwal,Doctor,GP,West,West-T7,SR-WE07,563,0.76,RES-17
+C00510,Qarin Maharaj,Doctor,Dermatology,Central,Central-T9,SR-CE05,233,0.88,CAR-14
+C00511,Yuvraj Sen,Doctor,Ortho,South,South-T2,SR-SO02,270,0.76,CAR-20
+C00512,"Handa, Arya and Mall",Pharmacy,Pediatrics,West,West-T4,SR-WE05,312,0.56,CAR-05
+C00513,Gopal Kothari,Doctor,GP,North,North-T5,SR-NO09,629,0.52,ANA-23
+C00514,Hemang Gala,Doctor,Cardiology,West,West-T1,SR-WE01,601,0.67,DIA-11
+C00515,Sama LLC,Pharmacy,Pediatrics,West,West-T6,SR-WE05,671,0.65,ANA-02
+C00516,"Kunda, Buch and Saxena",Pharmacy,Cardiology,East,East-T1,SR-EA02,699,0.52,ANT-13
+C00517,Jagdish Dugar,Doctor,Cardiology,North,North-T5,SR-NO09,126,0.88,ANA-01
+C00518,Parth Mangat,Doctor,Pediatrics,North,North-T4,SR-NO04,167,0.83,ANA-02
+C00519,"Ben, Bhatt and Behl",Pharmacy,GP,South,South-T9,SR-SO08,507,0.78,ANA-07
+C00520,Arya Group,Pharmacy,Ortho,West,West-T6,SR-WE07,651,0.45,RES-24
+C00521,Saanvi Patel,Doctor,Ortho,North,North-T8,SR-NO09,208,0.77,ANA-07
+C00522,Wali-Rastogi,Pharmacy,Cardiology,East,East-T2,SR-EA01,173,0.5,CAR-14
+C00523,Dipta Buch,Doctor,Ortho,East,East-T2,SR-EA01,677,0.61,CAR-08
+C00524,Leela Samra,Doctor,Dermatology,North,North-T8,SR-NO01,779,0.8,CAR-05
+C00525,Advay Nath,Doctor,Pediatrics,East,East-T2,SR-EA02,361,0.8,DIA-11
+C00526,Upkaar Kothari,Doctor,Cardiology,North,North-T9,SR-NO01,467,0.86,CAR-05
+C00527,Triveni Sastry,Doctor,ENT,West,West-T6,SR-WE04,336,0.87,CAR-15
+C00528,"Aurora, Savant and Bains",Pharmacy,Ortho,South,South-T3,SR-SO01,465,0.51,ANA-02
+C00529,Yochana Deshpande,Doctor,ENT,West,West-T8,SR-WE08,385,0.47,RES-06
+C00530,Garima Shankar,Doctor,Pediatrics,Central,Central-T5,SR-CE06,477,0.91,CAR-20
+C00531,Eshana Kala,Doctor,Cardiology,Central,Central-T8,SR-CE03,760,0.54,ANA-09
+C00532,Abhiram Thaker,Doctor,Dermatology,Central,Central-T9,SR-CE06,475,0.6,RES-06
+C00533,Gala-Rajan,Pharmacy,Cardiology,North,North-T6,SR-NO06,718,0.82,CAR-22
+C00534,Atharv Balasubramanian,Doctor,Dermatology,Central,Central-T8,SR-CE07,752,0.85,CAR-05
+C00535,Balvan Narang,Doctor,Dermatology,Central,Central-T6,SR-CE05,175,0.42,RES-17
+C00536,Bhatti-Ratti,Pharmacy,Cardiology,North,North-T3,SR-NO01,108,0.92,ANA-07
+C00537,Henry Thaker,Doctor,GP,North,North-T7,SR-NO08,295,0.78,RES-17
+C00538,Wyatt Brar,Doctor,Cardiology,Central,Central-T2,SR-CE05,729,0.36,ANA-07
+C00539,Rehaan Krishnan,Doctor,Dermatology,West,West-T1,SR-WE02,389,0.58,RES-24
+C00540,"Chaudhari, Murty and Dugal",Pharmacy,GP,West,West-T5,SR-WE06,160,0.69,RES-24
+C00541,Sara Parsa,Doctor,Cardiology,North,North-T9,SR-NO05,488,0.41,RES-24
+C00542,Gaurav Shankar,Doctor,Cardiology,South,South-T9,SR-SO09,662,0.78,RES-19
+C00543,Vyas PLC,Pharmacy,Pediatrics,South,South-T2,SR-SO09,663,0.85,RES-19
+C00544,Kanda and Sons,Pharmacy,Pediatrics,East,East-T2,SR-EA08,733,0.46,RES-06
+C00545,Varenya Grewal,Doctor,Dermatology,Central,Central-T3,SR-CE07,778,0.7,CAR-20
+C00546,Dugar-Gade,Hospital,ENT,West,West-T6,SR-WE06,107,0.9,CAR-14
+C00547,"Raja, Soni and Bawa",Pharmacy,ENT,West,West-T9,SR-WE06,468,0.49,ANT-25
+C00548,Vivaan Mody,Doctor,Pediatrics,Central,Central-T8,SR-CE05,144,0.97,ANA-01
+C00549,Shivansh Iyer,Doctor,ENT,North,North-T3,SR-NO05,443,1,CAR-10
+C00550,"Anne, Agrawal and Devan",Hospital,Cardiology,North,North-T6,SR-NO05,474,0.36,ANA-23
+C00551,Luke Narayan,Doctor,ENT,East,East-T3,SR-EA09,718,0.41,CAR-15
+C00552,Sara Parmer,Doctor,Ortho,East,East-T4,SR-EA03,126,0.5,CAR-10
+C00553,Eshana Gopal,Doctor,Cardiology,North,North-T2,SR-NO07,292,0.82,DIA-16
+C00554,Badal Group,Pharmacy,Dermatology,South,South-T2,SR-SO08,456,0.74,CAR-10
+C00555,Vedika Solanki,Doctor,GP,North,North-T6,SR-NO07,161,0.58,CAR-14
+C00556,Dutt-Basu,Pharmacy,Cardiology,West,West-T1,SR-WE02,161,0.76,ANA-21
+C00557,Jack Sachar,Doctor,GP,West,West-T6,SR-WE01,521,0.7,CAR-05
+C00558,Chowdhury-Kara,Pharmacy,Cardiology,East,East-T1,SR-EA09,732,0.79,ANT-13
+C00559,Fariq Kulkarni,Doctor,Pediatrics,West,West-T5,SR-WE09,650,0.86,CAR-05
+C00560,Urvi Merchant,Doctor,ENT,South,South-T1,SR-SO06,479,0.71,ANA-09
+C00561,Luke Barman,Doctor,Dermatology,North,North-T3,SR-NO07,376,0.85,DIA-16
+C00562,Jason Devi,Doctor,Dermatology,Central,Central-T4,SR-CE04,705,0.71,RES-24
+C00563,Chaitanya Chad,Doctor,Ortho,Central,Central-T7,SR-CE04,530,0.56,RES-19
+C00564,Raghavan-Kalla,Pharmacy,Pediatrics,North,North-T6,SR-NO02,214,0.58,DIA-11
+C00565,"Subramaniam, Choudhury and Ravi",Pharmacy,Cardiology,East,East-T6,SR-EA01,787,0.75,CAR-15
+C00566,Samaksh Som,Doctor,Cardiology,Central,Central-T4,SR-CE03,220,0.8,CAR-05
+C00567,Singhal-Iyer,Pharmacy,Cardiology,North,North-T3,SR-NO02,624,0.91,CAR-10
+C00568,Khatri Inc,Pharmacy,GP,North,North-T5,SR-NO06,515,0.64,ANA-01
+C00569,Tripathi Ltd,Pharmacy,Cardiology,East,East-T4,SR-EA04,262,0.71,ANT-25
+C00570,Charles Das,Doctor,Dermatology,East,East-T3,SR-EA09,787,0.8,CAR-22
+C00571,Karan Mital,Doctor,Dermatology,North,North-T9,SR-NO07,436,0.38,RES-06
+C00572,Kala Ghosh,Doctor,Dermatology,North,North-T5,SR-NO05,478,0.38,ANA-21
+C00573,Anthony Dalal,Doctor,Ortho,North,North-T6,SR-NO02,423,0.91,ANA-01
+C00574,Logan Warrior,Doctor,Pediatrics,East,East-T9,SR-EA07,272,0.98,RES-04
+C00575,Bansal-Rajan,Pharmacy,ENT,East,East-T2,SR-EA08,163,0.47,RES-17
+C00576,"Acharya, Konda and Ratta",Hospital,GP,West,West-T1,SR-WE09,200,0.51,RES-17
+C00577,Amrita Dar,Doctor,Dermatology,East,East-T3,SR-EA06,421,0.36,CAR-22
+C00578,Gill-Palan,Pharmacy,Cardiology,East,East-T9,SR-EA06,165,0.53,ANA-02
+C00579,Shan-Dara,Pharmacy,GP,East,East-T9,SR-EA07,656,0.97,CAR-08
+C00580,Pant and Sons,Pharmacy,Dermatology,South,South-T3,SR-SO06,698,0.41,ANT-13
+C00581,Kavya Nori,Doctor,ENT,Central,Central-T3,SR-CE04,557,0.63,CAR-10
+C00582,Jonathan Khatri,Doctor,Cardiology,Central,Central-T4,SR-CE06,678,0.77,RES-19
+C00583,Lala LLC,Pharmacy,Ortho,Central,Central-T9,SR-CE04,552,0.94,CAR-14
+C00584,Samaksh Mand,Doctor,ENT,South,South-T9,SR-SO03,358,0.97,RES-04
+C00585,Oak-Chanda,Pharmacy,Cardiology,South,South-T1,SR-SO06,525,0.85,CAR-14
+C00586,Amruta Shroff,Doctor,Dermatology,West,West-T5,SR-WE05,277,0.45,ANA-07
+C00587,Jeet Nadkarni,Doctor,ENT,North,North-T5,SR-NO03,379,0.74,CAR-20
+C00588,Vivaan Pingle,Doctor,GP,South,South-T6,SR-SO04,443,0.4,ANT-25
+C00589,Pranit Barman,Doctor,ENT,West,West-T8,SR-WE03,116,0.81,ANA-12
+C00590,Guneet Badal,Doctor,Cardiology,South,South-T3,SR-SO07,395,0.48,ANA-02
+C00591,Chand-Gole,Hospital,Pediatrics,West,West-T4,SR-WE01,301,0.83,ANA-07
+C00592,Lopa Chopra,Doctor,Pediatrics,South,South-T8,SR-SO02,783,0.8,CAR-15
+C00593,Ekantika Bhalla,Doctor,GP,South,South-T7,SR-SO07,293,0.82,ANT-13
+C00594,Abhiram Gara,Doctor,Dermatology,Central,Central-T1,SR-CE09,248,0.69,CAR-15
+C00595,Pant-Tara,Pharmacy,Cardiology,West,West-T9,SR-WE01,474,0.7,RES-24
+C00596,Neha Kumer,Doctor,Dermatology,North,North-T1,SR-NO09,134,0.47,CAR-15
+C00597,"Rajan, Ahuja and Kuruvilla",Pharmacy,Ortho,West,West-T8,SR-WE05,468,0.46,CAR-10
+C00598,Shanker-Nath,Pharmacy,Cardiology,Central,Central-T8,SR-CE01,128,0.89,CAR-15
+C00599,Meghana Bajaj,Doctor,ENT,North,North-T9,SR-NO09,320,0.44,CAR-14
+C00600,Ranbir Kale,Doctor,Pediatrics,East,East-T4,SR-EA08,152,0.92,ANA-03
+C00601,"Keer, Sankar and Balakrishnan",Pharmacy,Dermatology,East,East-T3,SR-EA06,452,0.82,RES-04
+C00602,Banik Inc,Pharmacy,Dermatology,North,North-T6,SR-NO02,491,0.41,ANA-23
+C00603,Chahal Ltd,Pharmacy,Cardiology,West,West-T7,SR-WE09,175,0.71,ANA-02
+C00604,Zayan Bajwa,Doctor,Dermatology,South,South-T3,SR-SO06,593,0.46,CAR-05
+C00605,Hemang Upadhyay,Doctor,Ortho,South,South-T8,SR-SO01,787,0.54,RES-06
+C00606,Chana-Hari,Hospital,GP,North,North-T5,SR-NO03,621,0.36,DIA-16
+C00607,"Banerjee, Kaul and Konda",Pharmacy,ENT,West,West-T8,SR-WE09,216,0.5,RES-19
+C00608,Yauvani Dutt,Doctor,GP,West,West-T1,SR-WE08,379,0.51,ANA-18
+C00609,"Ganguly, Munshi and Loyal",Pharmacy,Cardiology,East,East-T1,SR-EA09,274,0.47,ANA-02
+C00610,Samesh Gola,Doctor,GP,East,East-T5,SR-EA01,394,0.57,ANA-03
+C00611,George Uppal,Doctor,Cardiology,North,North-T3,SR-NO02,550,0.79,CAR-20
+C00612,Bhavna Boase,Doctor,Pediatrics,Central,Central-T6,SR-CE09,617,0.96,ANA-03
+C00613,Aarini Kalla,Doctor,Pediatrics,East,East-T2,SR-EA06,120,0.84,ANA-18
+C00614,Bakhshi Lad,Doctor,GP,North,North-T5,SR-NO05,172,0.56,CAR-14
+C00615,"Sekhon, Ganesh and Bajaj",Pharmacy,ENT,Central,Central-T1,SR-CE04,135,0.42,RES-24
+C00616,Naveen Atwal,Doctor,Dermatology,Central,Central-T5,SR-CE02,606,0.63,DIA-11
+C00617,Aishani Date,Doctor,ENT,East,East-T6,SR-EA09,332,0.95,CAR-20
+C00618,Abdul Karan,Doctor,Dermatology,Central,Central-T8,SR-CE08,596,0.67,RES-06
+C00619,Modi-Kadakia,Pharmacy,Cardiology,Central,Central-T1,SR-CE04,305,0.43,CAR-15
+C00620,Khurana Ltd,Pharmacy,Pediatrics,North,North-T7,SR-NO04,525,0.38,ANA-12
+C00621,Caleb Kamdar,Doctor,Cardiology,Central,Central-T5,SR-CE04,143,0.52,ANA-03
+C00622,Advay Sarma,Doctor,Ortho,East,East-T1,SR-EA05,190,0.42,DIA-11
+C00623,Mohanty-Pillai,Pharmacy,ENT,East,East-T1,SR-EA07,569,0.89,ANA-07
+C00624,"Sood, Venkataraman and Naik",Hospital,Pediatrics,East,East-T8,SR-EA06,704,0.87,ANA-21
+C00625,Rushil Morar,Doctor,Pediatrics,South,South-T9,SR-SO08,566,0.93,CAR-15
+C00626,Behl-Sarkar,Pharmacy,Ortho,West,West-T6,SR-WE01,553,0.71,ANA-01
+C00627,Dasgupta Inc,Pharmacy,Ortho,South,South-T2,SR-SO06,694,0.98,ANA-09
+C00628,Basak-Dugar,Hospital,Dermatology,North,North-T9,SR-NO06,432,0.9,RES-19
+C00629,Aarnav Dasgupta,Doctor,GP,Central,Central-T5,SR-CE07,606,0.81,DIA-11
+C00630,Zashil Divan,Doctor,Pediatrics,North,North-T4,SR-NO05,569,0.59,CAR-10
+C00631,Rayaan Basak,Doctor,GP,South,South-T6,SR-SO09,120,0.86,ANT-25
+C00632,Ranveer Vohra,Doctor,GP,South,South-T8,SR-SO02,327,0.94,CAR-05
+C00633,Mander Ltd,Hospital,Dermatology,South,South-T9,SR-SO06,475,0.55,DIA-11
+C00634,Puri PLC,Pharmacy,ENT,South,South-T3,SR-SO02,229,0.48,ANA-02
+C00635,"Keer, Aurora and Suresh",Pharmacy,ENT,West,West-T2,SR-WE07,786,0.35,ANA-02
+C00636,Vihaan Sampath,Doctor,GP,Central,Central-T2,SR-CE02,719,0.69,CAR-22
+C00637,Dalbir Bhandari,Doctor,Ortho,East,East-T4,SR-EA01,513,0.56,ANA-07
+C00638,Qasim Loke,Doctor,Pediatrics,East,East-T2,SR-EA05,170,0.53,RES-06
+C00639,Timothy Vohra,Doctor,ENT,East,East-T9,SR-EA02,503,0.68,ANA-07
+C00640,Lakshmi Dutta,Doctor,Ortho,Central,Central-T3,SR-CE06,661,0.96,CAR-10
+C00641,Harshil Wason,Doctor,Ortho,Central,Central-T6,SR-CE04,706,0.7,ANA-02
+C00642,Amaira Kala,Doctor,Dermatology,South,South-T1,SR-SO01,496,0.42,ANA-02
+C00643,Bimala Seth,Doctor,Dermatology,North,North-T8,SR-NO07,436,0.75,CAR-10
+C00644,Shukla-Lata,Pharmacy,Dermatology,East,East-T9,SR-EA04,743,0.4,ANT-25
+C00645,Tejas Dixit,Doctor,Dermatology,West,West-T8,SR-WE03,604,0.41,CAR-10
+C00646,Tanvi Lal,Doctor,Cardiology,West,West-T3,SR-WE08,375,0.91,CAR-20
+C00647,Rajata Dhaliwal,Doctor,Dermatology,East,East-T6,SR-EA06,112,0.86,DIA-11
+C00648,Pranit Rout,Doctor,Pediatrics,West,West-T2,SR-WE08,102,0.58,CAR-15
+C00649,"Badal, Yogi and Jayaraman",Pharmacy,ENT,South,South-T3,SR-SO05,323,0.68,ANT-13
+C00650,Udant More,Doctor,GP,North,North-T5,SR-NO06,274,0.7,ANT-13
+C00651,Sanaya Sant,Doctor,Cardiology,Central,Central-T9,SR-CE07,484,0.45,DIA-16
+C00652,Viraj Swaminathan,Doctor,Dermatology,West,West-T7,SR-WE02,701,0.86,CAR-14
+C00653,Tanmayi Natarajan,Doctor,Cardiology,Central,Central-T3,SR-CE06,340,0.78,ANA-03
+C00654,Zayan Kaur,Doctor,ENT,Central,Central-T8,SR-CE08,646,0.56,RES-04
+C00655,Alka Walia,Doctor,Pediatrics,West,West-T2,SR-WE03,113,0.74,CAR-22
+C00656,Christopher Ramachandran,Doctor,Dermatology,Central,Central-T1,SR-CE07,294,0.41,CAR-05
+C00657,Shanker-Vaidya,Pharmacy,Dermatology,Central,Central-T3,SR-CE01,496,0.64,CAR-10
+C00658,Madhavi De,Doctor,Dermatology,West,West-T6,SR-WE08,530,0.54,CAR-22
+C00659,"Bava, Tailor and Kade",Pharmacy,Ortho,East,East-T2,SR-EA07,405,0.73,CAR-20
+C00660,"Ramachandran, Borra and Borah",Pharmacy,Ortho,Central,Central-T1,SR-CE07,433,0.59,ANA-18
+C00661,Goswami-Parmer,Pharmacy,Ortho,North,North-T2,SR-NO01,509,0.91,ANA-01
+C00662,"Divan, Das and Lad",Pharmacy,Pediatrics,South,South-T6,SR-SO07,102,0.81,ANT-13
+C00663,Keya Subramanian,Doctor,Dermatology,West,West-T3,SR-WE07,790,0.66,ANA-07
+C00664,Contractor Ltd,Pharmacy,Ortho,Central,Central-T7,SR-CE07,651,0.45,CAR-22
+C00665,Vedhika Deshmukh,Doctor,Dermatology,South,South-T1,SR-SO03,551,0.44,DIA-16
+C00666,Xiti Reddy,Doctor,Dermatology,West,West-T7,SR-WE03,775,0.91,ANA-23
+C00667,Lal-Issac,Pharmacy,Pediatrics,Central,Central-T9,SR-CE07,594,0.63,CAR-15
+C00668,Veda Kade,Doctor,Pediatrics,West,West-T1,SR-WE06,516,0.73,RES-24
+C00669,Shaurya Mannan,Doctor,ENT,South,South-T6,SR-SO09,490,0.37,ANA-02
+C00670,Shetty-Balay,Pharmacy,GP,Central,Central-T8,SR-CE08,472,0.98,ANA-03
+C00671,Nanda-Apte,Hospital,Ortho,South,South-T8,SR-SO09,727,0.69,RES-17
+C00672,Veer Oommen,Doctor,Dermatology,Central,Central-T2,SR-CE02,151,0.79,ANA-18
+C00673,Ratti-Pathak,Pharmacy,Ortho,Central,Central-T9,SR-CE05,475,0.86,DIA-16
+C00674,Chaudry-Master,Hospital,ENT,West,West-T6,SR-WE09,494,0.62,CAR-10
+C00675,Samuel Magar,Doctor,ENT,East,East-T5,SR-EA03,241,0.82,RES-19
+C00676,Choudhry-Peri,Pharmacy,ENT,East,East-T3,SR-EA01,185,0.72,CAR-22
+C00677,Kevin Raghavan,Doctor,GP,East,East-T3,SR-EA01,563,0.68,ANA-09
+C00678,"Setty, Mitra and Wason",Pharmacy,Ortho,East,East-T5,SR-EA03,145,0.36,RES-04
+C00679,"Sethi, Gulati and Bedi",Hospital,Dermatology,Central,Central-T3,SR-CE03,337,0.78,ANA-12
+C00680,"Narain, Bhatnagar and Kanda",Pharmacy,Cardiology,South,South-T8,SR-SO05,109,0.47,RES-17
+C00681,Garde-Khatri,Hospital,Cardiology,North,North-T3,SR-NO06,763,0.89,ANT-25
+C00682,Ryan Nadig,Doctor,Pediatrics,West,West-T3,SR-WE07,672,0.49,RES-24
+C00683,Chanda-Hans,Pharmacy,GP,East,East-T1,SR-EA01,629,0.46,ANT-13
+C00684,Jai Vohra,Doctor,ENT,West,West-T4,SR-WE05,697,0.6,ANA-23
+C00685,Onveer Murthy,Doctor,ENT,West,West-T7,SR-WE08,748,0.36,CAR-15
+C00686,"Issac, Soman and Pau",Hospital,Dermatology,West,West-T1,SR-WE06,739,0.41,ANA-18
+C00687,Bandi-Sane,Pharmacy,Dermatology,East,East-T5,SR-EA07,715,0.57,ANA-09
+C00688,"Bobal, Pandit and Char",Pharmacy,Pediatrics,North,North-T8,SR-NO05,797,0.85,RES-24
+C00689,Indrajit Bansal,Doctor,Dermatology,South,South-T3,SR-SO04,277,0.55,ANA-01
+C00690,Vasana Khalsa,Doctor,GP,North,North-T9,SR-NO02,105,0.42,CAR-15
+C00691,"Patla, Dugal and Raman",Pharmacy,Ortho,East,East-T4,SR-EA04,406,0.37,CAR-20
+C00692,Bedi-Ratta,Hospital,Dermatology,North,North-T4,SR-NO01,647,0.97,ANA-21
+C00693,Leena Talwar,Doctor,ENT,North,North-T3,SR-NO02,426,0.59,ANT-25
+C00694,"Prabhu, Badami and Bumb",Pharmacy,Dermatology,Central,Central-T3,SR-CE03,455,0.51,CAR-15
+C00695,Ahuja-Lata,Hospital,Ortho,North,North-T7,SR-NO08,494,0.8,CAR-22
+C00696,Gauri Choudhury,Doctor,GP,East,East-T5,SR-EA05,399,0.86,ANT-13
+C00697,Grewal and Sons,Hospital,Ortho,West,West-T5,SR-WE06,625,0.47,ANA-03
+C00698,Kapadia-Oak,Pharmacy,Cardiology,West,West-T8,SR-WE04,384,0.42,ANA-18
+C00699,Sahni LLC,Pharmacy,GP,West,West-T8,SR-WE04,429,0.82,RES-04
+C00700,Samarth Ramaswamy,Doctor,Dermatology,North,North-T5,SR-NO02,149,0.86,ANA-01
+C00701,Hegde LLC,Pharmacy,GP,West,West-T1,SR-WE03,721,0.78,ANA-09
+C00702,"Banik, Doshi and Kibe",Hospital,ENT,South,South-T1,SR-SO06,477,0.68,ANT-25
+C00703,Hredhaan Basak,Doctor,Dermatology,West,West-T2,SR-WE08,699,0.7,ANA-01
+C00704,Jagvi Sunder,Doctor,ENT,West,West-T6,SR-WE08,637,0.57,CAR-10
+C00705,"Padmanabhan, Wadhwa and Thaman",Pharmacy,Dermatology,West,West-T2,SR-WE01,243,0.59,DIA-11
+C00706,Chatterjee-Sawhney,Pharmacy,Ortho,North,North-T4,SR-NO08,159,0.46,ANA-02
+C00707,Anya Mangat,Doctor,Pediatrics,West,West-T2,SR-WE04,174,0.76,ANA-12
+C00708,Mahal-Doshi,Pharmacy,Pediatrics,West,West-T4,SR-WE02,102,0.44,ANA-07
+C00709,Ranveer Dayal,Doctor,GP,North,North-T9,SR-NO04,674,0.77,DIA-16
+C00710,Raju-Raghavan,Hospital,GP,Central,Central-T1,SR-CE08,547,0.57,DIA-11
+C00711,Ishita Kashyap,Doctor,Dermatology,North,North-T9,SR-NO07,374,0.65,CAR-22
+C00712,Chander Inc,Pharmacy,Cardiology,Central,Central-T2,SR-CE03,629,0.37,CAR-05
+C00713,Idika Sood,Doctor,ENT,West,West-T1,SR-WE01,691,0.51,ANA-21
+C00714,Bakhshi Khosla,Doctor,GP,South,South-T5,SR-SO01,314,0.88,RES-04
+C00715,Balakrishnan-Oommen,Pharmacy,GP,West,West-T2,SR-WE03,782,0.42,CAR-20
+C00716,Samuel Nair,Doctor,Cardiology,Central,Central-T7,SR-CE04,584,0.57,RES-24
+C00717,Tanveer Kata,Doctor,Dermatology,West,West-T9,SR-WE06,428,0.44,ANA-07
+C00718,Caleb Viswanathan,Doctor,GP,North,North-T5,SR-NO03,354,0.44,CAR-14
+C00719,Adya Acharya,Doctor,Pediatrics,South,South-T4,SR-SO06,486,0.95,ANA-02
+C00720,Wali-Gulati,Pharmacy,Dermatology,South,South-T7,SR-SO02,225,0.86,ANA-01
+C00721,Ladli Banik,Doctor,Cardiology,West,West-T2,SR-WE02,683,0.81,RES-19
+C00722,"Banik, Lall and Roy",Pharmacy,Pediatrics,East,East-T3,SR-EA07,649,0.48,ANA-21
+C00723,Hardik Sundaram,Doctor,Cardiology,East,East-T3,SR-EA09,423,0.75,ANA-02
+C00724,Kunda LLC,Pharmacy,ENT,Central,Central-T2,SR-CE03,303,0.76,CAR-10
+C00725,Aradhana Guha,Doctor,Cardiology,East,East-T4,SR-EA07,271,0.43,RES-17
+C00726,Dhar-Kurian,Pharmacy,ENT,North,North-T9,SR-NO06,316,0.49,ANT-25
+C00727,Rushil Bansal,Doctor,GP,South,South-T3,SR-SO05,344,0.8,DIA-16
+C00728,Abhiram Jha,Doctor,GP,West,West-T1,SR-WE03,435,0.77,CAR-10
+C00729,Lekha Khalsa,Doctor,ENT,South,South-T8,SR-SO07,397,0.38,RES-24
+C00730,Vrinda Padmanabhan,Doctor,GP,North,North-T8,SR-NO09,281,0.68,ANA-03
+C00731,William Naik,Doctor,Ortho,South,South-T7,SR-SO08,433,0.48,CAR-22
+C00732,Mistry PLC,Pharmacy,Ortho,East,East-T4,SR-EA04,610,0.41,RES-24
+C00733,Meera Batta,Doctor,Cardiology,West,West-T2,SR-WE04,482,0.66,DIA-16
+C00734,Arya Magar,Doctor,ENT,North,North-T8,SR-NO07,298,0.47,ANA-12
+C00735,"Manda, Chand and Sharaf",Pharmacy,Dermatology,South,South-T6,SR-SO08,431,0.98,ANA-07
+C00736,Hredhaan Narula,Doctor,ENT,East,East-T1,SR-EA03,264,0.53,RES-04
+C00737,Fariq Chaudry,Doctor,Ortho,West,West-T4,SR-WE08,341,0.93,CAR-20
+C00738,Hamsini Sawhney,Doctor,ENT,South,South-T4,SR-SO03,741,0.41,RES-17
+C00739,Kashvi Ahuja,Doctor,Pediatrics,West,West-T5,SR-WE04,326,0.36,CAR-14
+C00740,Neelima Sundaram,Doctor,ENT,South,South-T4,SR-SO04,733,0.93,RES-19
+C00741,Shaurya Raju,Doctor,GP,South,South-T1,SR-SO01,655,0.99,RES-24
+C00742,Banjeet Banerjee,Doctor,Pediatrics,Central,Central-T8,SR-CE01,550,0.88,ANA-23
+C00743,Upasna Memon,Doctor,GP,North,North-T9,SR-NO08,295,0.84,ANA-23
+C00744,Vanya Talwar,Doctor,Ortho,West,West-T4,SR-WE04,303,0.77,ANA-03
+C00745,Dutta-Chaudhry,Pharmacy,Cardiology,North,North-T8,SR-NO08,557,0.91,RES-24
+C00746,"Setty, Rama and Chowdhury",Hospital,Pediatrics,Central,Central-T3,SR-CE01,356,0.92,ANT-13
+C00747,Mukhopadhyay PLC,Pharmacy,Dermatology,South,South-T1,SR-SO06,628,0.91,ANA-03
+C00748,Parth Mandal,Doctor,Ortho,West,West-T7,SR-WE06,371,0.84,ANA-23
+C00749,Karan Puri,Doctor,Cardiology,Central,Central-T2,SR-CE09,108,0.75,DIA-11
+C00750,Kuruvilla Ltd,Hospital,Dermatology,North,North-T6,SR-NO09,300,0.93,RES-04
+C00751,Krisha Sanghvi,Doctor,GP,West,West-T6,SR-WE06,158,0.59,ANA-21
+C00752,Urvi Yadav,Doctor,Cardiology,Central,Central-T3,SR-CE02,492,0.99,CAR-08
+C00753,Chand-Ram,Pharmacy,Dermatology,Central,Central-T4,SR-CE02,751,0.84,ANT-25
+C00754,Xavier Master,Doctor,Ortho,South,South-T9,SR-SO06,218,0.79,ANA-09
+C00755,Yamini Mital,Doctor,Pediatrics,North,North-T8,SR-NO02,652,0.68,RES-04
+C00756,Nadig and Sons,Pharmacy,ENT,West,West-T5,SR-WE09,498,0.64,ANA-12
+C00757,Kapadia LLC,Pharmacy,Pediatrics,North,North-T2,SR-NO04,430,0.4,RES-06
+C00758,Hritik Dewan,Doctor,Ortho,East,East-T2,SR-EA02,366,0.8,DIA-16
+C00759,Dipta Kashyap,Doctor,Dermatology,South,South-T1,SR-SO04,619,0.54,CAR-22
+C00760,Dakshesh Sunder,Doctor,Pediatrics,Central,Central-T8,SR-CE03,794,0.83,ANA-01
+C00761,Frado Walia,Doctor,Cardiology,East,East-T9,SR-EA04,579,0.77,CAR-14
+C00762,"Dada, Dhillon and Mitter",Pharmacy,Ortho,Central,Central-T8,SR-CE06,233,0.74,ANA-23
+C00763,Ekani Baria,Doctor,Ortho,Central,Central-T3,SR-CE09,792,0.93,CAR-10
+C00764,Dakshesh Kanda,Doctor,Ortho,South,South-T5,SR-SO05,454,0.85,ANA-02
+C00765,Tara Gopal,Doctor,Cardiology,South,South-T3,SR-SO06,683,0.81,CAR-10
+C00766,Rana-Tara,Pharmacy,Dermatology,South,South-T3,SR-SO03,597,0.45,RES-04
+C00767,Ekbal Nayar,Doctor,Pediatrics,North,North-T5,SR-NO06,724,0.59,ANA-07
+C00768,Basak-Ghosh,Pharmacy,Ortho,Central,Central-T3,SR-CE01,206,0.59,ANA-18
+C00769,Omisha Jaggi,Doctor,GP,South,South-T7,SR-SO09,389,0.96,ANT-25
+C00770,Walia-Chatterjee,Hospital,Cardiology,South,South-T1,SR-SO08,728,0.98,ANA-18
+C00771,Sem LLC,Pharmacy,Ortho,Central,Central-T8,SR-CE06,731,0.93,ANT-25
+C00772,Chanda and Sons,Pharmacy,Dermatology,Central,Central-T8,SR-CE03,246,0.57,RES-04
+C00773,Dhruv Batta,Doctor,ENT,West,West-T2,SR-WE01,426,0.55,ANT-13
+C00774,Advaith Madan,Doctor,GP,Central,Central-T6,SR-CE04,514,0.39,ANA-21
+C00775,Warda Roy,Doctor,Ortho,South,South-T4,SR-SO09,309,0.36,ANA-18
+C00776,"Rajan, Raju and Dada",Hospital,Pediatrics,West,West-T4,SR-WE02,395,0.67,CAR-20
+C00777,Ramanathan PLC,Hospital,Dermatology,Central,Central-T6,SR-CE09,497,0.61,ANA-23
+C00778,Naksh Shetty,Doctor,GP,West,West-T5,SR-WE06,202,0.57,CAR-10
+C00779,Lakshit Chhabra,Doctor,Dermatology,West,West-T8,SR-WE09,735,0.83,CAR-14
+C00780,Hemal Karan,Doctor,Dermatology,West,West-T7,SR-WE05,607,0.82,CAR-14
+C00781,Urvashi Sahota,Doctor,Ortho,South,South-T8,SR-SO02,308,0.99,RES-17
+C00782,Goswami-Babu,Hospital,ENT,East,East-T7,SR-EA02,527,0.41,CAR-14
+C00783,Omaja Khalsa,Doctor,Pediatrics,East,East-T3,SR-EA07,492,0.48,ANT-13
+C00784,Lipika Nadig,Doctor,Ortho,East,East-T5,SR-EA09,208,0.67,RES-24
+C00785,Jai Behl,Doctor,GP,West,West-T3,SR-WE04,447,0.52,ANA-21
+C00786,"Dani, Brar and Basak",Pharmacy,Ortho,West,West-T7,SR-WE02,149,0.47,ANA-23
+C00787,Jagdish Barad,Doctor,Ortho,South,South-T8,SR-SO01,204,1,ANA-03
+C00788,Siya Bora,Doctor,ENT,Central,Central-T7,SR-CE06,519,0.91,ANA-21
+C00789,Veer Tiwari,Doctor,Dermatology,West,West-T1,SR-WE02,472,0.9,RES-06
+C00790,Manan Dayal,Doctor,Pediatrics,Central,Central-T3,SR-CE01,126,0.58,ANA-02
+C00791,Wridesh Sule,Doctor,Ortho,East,East-T1,SR-EA06,372,0.54,RES-17
+C00792,Alka Johal,Doctor,Dermatology,North,North-T3,SR-NO09,748,0.85,CAR-20
+C00793,Kabir Jha,Doctor,Ortho,South,South-T5,SR-SO09,439,0.53,ANA-23
+C00794,Bina Chandran,Doctor,Ortho,East,East-T3,SR-EA02,400,0.36,RES-17
+C00795,Gala-Saha,Pharmacy,Pediatrics,East,East-T6,SR-EA06,579,0.95,RES-06
+C00796,Nihal Garde,Doctor,Cardiology,North,North-T4,SR-NO04,643,0.87,ANA-18
+C00797,"Contractor, Koshy and Karan",Pharmacy,Dermatology,Central,Central-T9,SR-CE09,656,0.81,RES-04
+C00798,"De, Sheth and Venkataraman",Hospital,GP,West,West-T3,SR-WE08,364,0.95,DIA-16
+C00799,"Golla, Raval and Sura",Pharmacy,Cardiology,East,East-T8,SR-EA05,641,0.93,CAR-20
+C00800,Barkha Dua,Doctor,Ortho,Central,Central-T1,SR-CE06,695,0.83,RES-04
+C00801,"Batta, Shroff and Ganguly",Pharmacy,Cardiology,South,South-T4,SR-SO03,265,0.55,ANA-07
+C00802,Gaurangi Chakrabarti,Doctor,GP,South,South-T2,SR-SO02,415,0.36,DIA-16
+C00803,Oni Walla,Doctor,GP,West,West-T9,SR-WE01,100,0.74,DIA-16
+C00804,Ekanta Kibe,Doctor,Ortho,North,North-T1,SR-NO05,360,0.84,RES-04
+C00805,Wriddhish Lanka,Doctor,Cardiology,Central,Central-T3,SR-CE04,162,0.79,ANA-01
+C00806,"Date, Bir and Brahmbhatt",Pharmacy,Ortho,North,North-T6,SR-NO03,582,0.58,RES-17
+C00807,Tanish Mukherjee,Doctor,GP,Central,Central-T2,SR-CE04,775,0.88,ANT-25
+C00808,Radhika Lad,Doctor,Cardiology,North,North-T5,SR-NO09,420,0.46,ANT-25
+C00809,Pandit Group,Hospital,GP,Central,Central-T4,SR-CE01,300,0.95,ANA-23
+C00810,Gulati PLC,Pharmacy,Cardiology,West,West-T8,SR-WE06,321,0.79,RES-04
+C00811,Chakrabarti Group,Hospital,Pediatrics,South,South-T4,SR-SO06,251,0.68,CAR-14
+C00812,Bimala De,Doctor,GP,North,North-T9,SR-NO06,743,0.44,ANT-25
+C00813,Wridesh Jayaraman,Doctor,GP,East,East-T2,SR-EA05,725,0.56,RES-04
+C00814,Yoshita Kapoor,Doctor,Dermatology,West,West-T5,SR-WE05,561,0.8,CAR-15
+C00815,Nachiket Pal,Doctor,Pediatrics,South,South-T4,SR-SO09,316,0.91,DIA-16
+C00816,Leela Vig,Doctor,Dermatology,East,East-T8,SR-EA03,295,0.79,ANT-13
+C00817,Mandal Ltd,Pharmacy,GP,West,West-T2,SR-WE09,301,0.44,ANT-13
+C00818,Cherian LLC,Pharmacy,Cardiology,Central,Central-T2,SR-CE02,746,0.59,ANA-07
+C00819,George Subramanian,Doctor,Pediatrics,East,East-T2,SR-EA04,333,0.5,CAR-14
+C00820,"Ganesh, Murty and Prabhu",Pharmacy,ENT,West,West-T5,SR-WE05,240,0.84,ANA-21
+C00821,Ishwar Sami,Doctor,ENT,West,West-T7,SR-WE06,597,0.99,RES-17
+C00822,Roy Group,Pharmacy,GP,East,East-T2,SR-EA03,654,0.51,DIA-16
+C00823,Jhalak Batta,Doctor,Dermatology,South,South-T1,SR-SO03,156,0.89,DIA-16
+C00824,Gabriel Nagi,Doctor,Dermatology,North,North-T6,SR-NO03,603,0.45,CAR-20
+C00825,Rao-Mane,Pharmacy,Dermatology,Central,Central-T9,SR-CE02,241,0.85,CAR-15
+C00826,Bhardwaj-Om,Pharmacy,Pediatrics,South,South-T9,SR-SO05,683,0.52,DIA-11
+C00827,Meera Varughese,Doctor,GP,Central,Central-T7,SR-CE09,638,0.92,RES-04
+C00828,Vasudha Dara,Doctor,Pediatrics,West,West-T8,SR-WE08,739,0.65,ANA-02
+C00829,Vala Ltd,Pharmacy,Ortho,South,South-T3,SR-SO09,205,0.67,CAR-05
+C00830,Anjali Sur,Doctor,GP,East,East-T8,SR-EA07,264,0.78,CAR-22
+C00831,Karan Bala,Doctor,Cardiology,Central,Central-T9,SR-CE08,314,0.39,ANA-09
+C00832,Raval-Mohan,Pharmacy,Ortho,West,West-T5,SR-WE07,170,0.56,ANA-01
+C00833,Faras Aggarwal,Doctor,Ortho,Central,Central-T6,SR-CE01,764,0.88,RES-19
+C00834,Triya Dhillon,Doctor,Pediatrics,North,North-T6,SR-NO06,678,0.99,CAR-14
+C00835,"Bobal, Prakash and Muni",Pharmacy,Cardiology,East,East-T4,SR-EA01,189,0.77,RES-19
+C00836,Sahni-Natarajan,Pharmacy,GP,North,North-T6,SR-NO02,327,0.46,ANA-18
+C00837,Kiaan Brahmbhatt,Doctor,Pediatrics,East,East-T9,SR-EA01,178,0.94,ANA-09
+C00838,Dalbir Hans,Doctor,Ortho,North,North-T7,SR-NO08,707,0.72,DIA-11
+C00839,Chacko Ltd,Pharmacy,GP,Central,Central-T4,SR-CE02,448,0.57,RES-17
+C00840,Kaur PLC,Pharmacy,Ortho,East,East-T7,SR-EA03,345,0.48,ANA-21
+C00841,Aachal Chaudhari,Doctor,Ortho,North,North-T1,SR-NO09,371,0.54,RES-19
+C00842,Mallick LLC,Pharmacy,GP,West,West-T2,SR-WE04,502,0.73,ANA-09
+C00843,Harinakshi Kar,Doctor,Cardiology,North,North-T6,SR-NO09,768,0.87,ANA-21
+C00844,Dora-Dubey,Pharmacy,Pediatrics,East,East-T9,SR-EA09,215,0.55,CAR-14
+C00845,"Nair, Jaggi and Kar",Pharmacy,Pediatrics,West,West-T9,SR-WE05,534,0.47,ANA-01
+C00846,Vivaan Magar,Doctor,Cardiology,Central,Central-T8,SR-CE03,629,0.52,ANA-21
+C00847,"Dhawan, Sem and Barman",Hospital,Dermatology,Central,Central-T1,SR-CE07,541,0.69,ANA-12
+C00848,Logan Munshi,Doctor,Dermatology,West,West-T5,SR-WE03,271,0.9,CAR-14
+C00849,"Chawla, Balay and Mall",Pharmacy,Pediatrics,East,East-T5,SR-EA02,115,0.89,ANA-21
+C00850,"Sarin, Wable and Kothari",Pharmacy,Cardiology,South,South-T7,SR-SO05,155,0.51,CAR-05
+C00851,Siddharth Cheema,Doctor,Ortho,South,South-T8,SR-SO01,690,0.67,CAR-14
+C00852,Forum Goel,Doctor,Ortho,West,West-T3,SR-WE01,202,0.37,ANA-09
+C00853,Kale-Suri,Pharmacy,GP,Central,Central-T8,SR-CE03,383,0.86,ANA-02
+C00854,Ganguly-Khanna,Pharmacy,GP,North,North-T7,SR-NO06,616,0.93,CAR-22
+C00855,Gopal-Prabhu,Hospital,Dermatology,North,North-T3,SR-NO07,717,0.5,RES-19
+C00856,Idika Thaman,Doctor,ENT,Central,Central-T9,SR-CE02,377,0.51,ANA-03
+C00857,Sahota and Sons,Pharmacy,Ortho,South,South-T6,SR-SO02,711,0.89,RES-24
+C00858,Maharaj Ltd,Hospital,Cardiology,West,West-T3,SR-WE04,368,0.42,ANA-07
+C00859,Fitan Hayre,Doctor,ENT,East,East-T1,SR-EA08,499,0.67,ANA-12
+C00860,Ekantika Loyal,Doctor,Pediatrics,North,North-T4,SR-NO06,602,0.98,CAR-05
+C00861,"Agrawal, Bir and Mannan",Pharmacy,Ortho,East,East-T1,SR-EA08,185,0.77,CAR-20
+C00862,"Vala, Nagar and Datta",Pharmacy,Dermatology,North,North-T4,SR-NO01,419,0.51,ANT-13
+C00863,Sampath-Patla,Hospital,Dermatology,East,East-T2,SR-EA06,131,0.7,CAR-08
+C00864,Elijah Ghosh,Doctor,Pediatrics,West,West-T5,SR-WE07,435,0.55,ANT-25
+C00865,Karan Dua,Doctor,Cardiology,South,South-T8,SR-SO05,150,0.76,ANT-25
+C00866,Pallavi Kaul,Doctor,GP,West,West-T8,SR-WE01,178,0.66,CAR-14
+C00867,"Barad, Dubey and Sagar",Pharmacy,GP,East,East-T3,SR-EA07,797,0.8,RES-17
+C00868,Shivani Chawla,Doctor,Dermatology,North,North-T9,SR-NO06,273,0.83,CAR-15
+C00869,Apte and Sons,Pharmacy,Cardiology,North,North-T8,SR-NO01,717,0.86,CAR-05
+C00870,Yash Gandhi,Doctor,Ortho,North,North-T6,SR-NO07,600,0.72,RES-04
+C00871,Bhavani Bhakta,Doctor,Dermatology,South,South-T3,SR-SO04,674,0.9,CAR-22
+C00872,Triveni Dasgupta,Doctor,Dermatology,West,West-T3,SR-WE06,175,0.52,CAR-22
+C00873,"Behl, Mann and Pall",Pharmacy,Cardiology,Central,Central-T2,SR-CE06,415,0.62,RES-06
+C00874,Sengupta Ltd,Hospital,ENT,West,West-T4,SR-WE07,472,0.36,ANA-01
+C00875,Dara-Bhavsar,Hospital,Pediatrics,Central,Central-T4,SR-CE04,180,0.52,RES-06
+C00876,"Kata, Verma and Barad",Pharmacy,ENT,North,North-T5,SR-NO07,739,0.45,ANA-12
+C00877,Anay Dani,Doctor,ENT,South,South-T7,SR-SO02,794,0.85,CAR-15
+C00878,Isaiah Dugal,Doctor,Cardiology,West,West-T4,SR-WE02,796,0.96,ANA-09
+C00879,Maya Sehgal,Doctor,Pediatrics,East,East-T4,SR-EA08,170,0.74,CAR-10
+C00880,Sudiksha Parekh,Doctor,Cardiology,South,South-T1,SR-SO07,765,0.54,ANA-09
+C00881,"Malhotra, Loyal and Krishnamurthy",Hospital,Ortho,South,South-T8,SR-SO08,751,0.41,DIA-16
+C00882,"Balasubramanian, Vora and Rattan",Hospital,Pediatrics,South,South-T4,SR-SO06,170,0.81,ANA-23
+C00883,Nakul Pillay,Doctor,ENT,West,West-T1,SR-WE05,145,0.38,CAR-08
+C00884,Bobal-Sami,Hospital,Dermatology,West,West-T1,SR-WE06,146,0.35,RES-17
+C00885,Naveen Dara,Doctor,Pediatrics,Central,Central-T6,SR-CE07,690,0.44,ANA-18
+C00886,Kamala Nayak,Doctor,ENT,North,North-T8,SR-NO03,521,0.95,CAR-15
+C00887,Chatura Zachariah,Doctor,ENT,South,South-T7,SR-SO02,248,0.44,RES-04
+C00888,Karnik PLC,Hospital,Pediatrics,East,East-T5,SR-EA01,229,0.84,CAR-14
+C00889,Chada Inc,Pharmacy,Ortho,East,East-T9,SR-EA05,555,0.55,RES-06
+C00890,"Lala, Madan and Nair",Pharmacy,Cardiology,East,East-T9,SR-EA08,738,0.9,CAR-22
+C00891,Caleb Kuruvilla,Doctor,GP,West,West-T4,SR-WE01,730,0.47,DIA-16
+C00892,"Parmar, Nayar and Lall",Pharmacy,Pediatrics,East,East-T2,SR-EA03,604,1,DIA-16
+C00893,Rachita Sami,Doctor,Dermatology,North,North-T9,SR-NO08,343,0.67,DIA-16
+C00894,Rajata Mishra,Doctor,GP,North,North-T4,SR-NO03,573,0.91,RES-06
+C00895,"Gill, Shankar and Shere",Pharmacy,ENT,South,South-T4,SR-SO09,481,0.73,ANA-01
+C00896,Hritik Saini,Doctor,GP,Central,Central-T4,SR-CE03,202,0.85,CAR-22
+C00897,Arin Nagy,Doctor,Dermatology,North,North-T2,SR-NO06,588,0.61,RES-19
+C00898,Gopal Bains,Doctor,GP,North,North-T8,SR-NO06,136,0.89,CAR-22
+C00899,"Kamdar, Ganesh and Date",Pharmacy,Ortho,West,West-T1,SR-WE08,753,0.56,ANA-02
+C00900,Neel Prashad,Doctor,Dermatology,Central,Central-T3,SR-CE08,648,0.49,ANA-02
+C00901,Mandal-Bedi,Pharmacy,Dermatology,East,East-T2,SR-EA06,619,0.71,CAR-20
+C00902,Jai Srinivasan,Doctor,Cardiology,West,West-T4,SR-WE02,432,0.98,ANT-13
+C00903,Manne PLC,Pharmacy,Cardiology,North,North-T7,SR-NO01,496,0.86,CAR-10
+C00904,Dakshesh Ramesh,Doctor,Pediatrics,South,South-T5,SR-SO02,395,0.94,CAR-20
+C00905,Nigam LLC,Pharmacy,Ortho,South,South-T9,SR-SO06,206,0.48,CAR-15
+C00906,Yahvi Radhakrishnan,Doctor,ENT,West,West-T7,SR-WE08,629,0.41,CAR-14
+C00907,Ethan Joshi,Doctor,Pediatrics,East,East-T2,SR-EA03,182,0.38,DIA-11
+C00908,"Bhargava, Thakkar and Nagy",Pharmacy,Dermatology,West,West-T3,SR-WE04,387,0.95,RES-17
+C00909,George Rege,Doctor,Pediatrics,Central,Central-T2,SR-CE02,560,0.94,DIA-16
+C00910,Sahni-Samra,Hospital,Dermatology,East,East-T5,SR-EA03,314,0.9,RES-17
+C00911,Ekani Chana,Doctor,ENT,West,West-T2,SR-WE05,380,0.95,RES-17
+C00912,Viraj Bansal,Doctor,GP,North,North-T8,SR-NO09,558,0.78,RES-19
+C00913,Varsha Anand,Doctor,GP,East,East-T9,SR-EA06,443,0.36,RES-24
+C00914,"Master, Sarkar and Raj",Pharmacy,Pediatrics,West,West-T1,SR-WE03,293,0.4,ANA-23
+C00915,Bhavya Dada,Doctor,Pediatrics,East,East-T8,SR-EA06,257,0.76,ANA-09
+C00916,Indali Prabhu,Doctor,GP,East,East-T5,SR-EA03,564,0.92,RES-04
+C00917,Rachana Rastogi,Doctor,Pediatrics,West,West-T2,SR-WE09,203,0.36,ANA-21
+C00918,Soman and Sons,Pharmacy,Dermatology,West,West-T8,SR-WE08,133,0.55,CAR-20
+C00919,Bhattacharyya-Venkataraman,Pharmacy,GP,East,East-T3,SR-EA07,201,0.44,ANA-07
+C00920,Saxena-Barad,Pharmacy,Cardiology,North,North-T1,SR-NO01,738,0.49,ANA-21
+C00921,Eiravati Sastry,Doctor,Dermatology,South,South-T9,SR-SO04,424,0.47,CAR-10
+C00922,Ria Subramanian,Doctor,GP,West,West-T2,SR-WE03,790,0.46,CAR-05
+C00923,Nidhi Datta,Doctor,Pediatrics,West,West-T4,SR-WE08,691,0.48,RES-19
+C00924,Oeshi Lanka,Doctor,GP,West,West-T7,SR-WE01,240,0.99,DIA-16
+C00925,Atwal Group,Hospital,GP,Central,Central-T8,SR-CE09,573,0.61,RES-17
+C00926,Darika Bhakta,Doctor,GP,Central,Central-T9,SR-CE08,130,0.36,RES-19
+C00927,Naksh Bhargava,Doctor,Dermatology,East,East-T7,SR-EA09,162,0.93,RES-04
+C00928,Gavin Bandi,Doctor,Pediatrics,West,West-T1,SR-WE06,659,0.45,RES-24
+C00929,Pavani Vig,Doctor,Cardiology,South,South-T9,SR-SO08,186,0.49,CAR-22
+C00930,Laban Savant,Doctor,Ortho,East,East-T7,SR-EA08,403,0.97,CAR-22
+C00931,Choudhury-Dugal,Pharmacy,Cardiology,East,East-T4,SR-EA08,160,0.53,RES-24
+C00932,Nandini Sane,Doctor,Cardiology,North,North-T3,SR-NO08,495,0.74,RES-04
+C00933,Tejas Patel,Doctor,Cardiology,West,West-T9,SR-WE08,433,0.38,ANA-01
+C00934,Ronith Kari,Doctor,Cardiology,East,East-T3,SR-EA05,510,0.89,RES-17
+C00935,Lipika Tiwari,Doctor,GP,North,North-T4,SR-NO02,383,0.43,CAR-08
+C00936,"Reddy, Misra and Kar",Hospital,Ortho,West,West-T1,SR-WE05,565,0.85,ANA-18
+C00937,"Sidhu, Grover and Deshpande",Pharmacy,ENT,East,East-T2,SR-EA03,179,0.81,CAR-15
+C00938,Kaur-Pal,Hospital,ENT,West,West-T2,SR-WE02,791,0.89,ANA-02
+C00939,Ikbal Deshpande,Doctor,GP,Central,Central-T4,SR-CE02,176,0.94,RES-06
+C00940,"Datta, Hayer and Ben",Pharmacy,Pediatrics,East,East-T2,SR-EA08,639,0.45,ANA-12
+C00941,Ojasvi Kata,Doctor,Cardiology,East,East-T8,SR-EA03,460,0.98,ANT-25
+C00942,Sant-Bhat,Pharmacy,Pediatrics,North,North-T6,SR-NO04,176,0.54,RES-06
+C00943,Ikshita Thakur,Doctor,Pediatrics,North,North-T6,SR-NO05,608,0.76,CAR-08
+C00944,Leela Naik,Doctor,Cardiology,South,South-T3,SR-SO09,263,0.87,CAR-14
+C00945,"Bose, Sur and Viswanathan",Hospital,ENT,West,West-T6,SR-WE08,108,0.96,CAR-15
+C00946,"Kata, Arya and Sha",Pharmacy,ENT,South,South-T2,SR-SO01,274,0.41,DIA-11
+C00947,Nidhi Tak,Doctor,Pediatrics,West,West-T1,SR-WE03,561,0.78,ANA-21
+C00948,"Peri, Rattan and Sawhney",Hospital,Dermatology,South,South-T9,SR-SO01,406,0.98,CAR-14
+C00949,Walia LLC,Pharmacy,Dermatology,West,West-T6,SR-WE09,687,0.94,ANA-01
+C00950,Devan-Munshi,Pharmacy,Cardiology,East,East-T7,SR-EA09,344,0.64,ANA-07
+C00951,Setty-Mishra,Pharmacy,Dermatology,Central,Central-T7,SR-CE08,221,0.85,CAR-10
+C00952,Tripti Dixit,Doctor,Pediatrics,North,North-T3,SR-NO01,284,0.69,ANA-18
+C00953,Warinder Mitra,Doctor,ENT,East,East-T5,SR-EA04,131,0.69,ANT-25
+C00954,Ikshita Boase,Doctor,ENT,South,South-T5,SR-SO01,668,0.51,ANT-25
+C00955,Dani Group,Hospital,GP,East,East-T1,SR-EA07,409,0.9,ANA-09
+C00956,Priya Kari,Doctor,Dermatology,Central,Central-T2,SR-CE06,471,0.64,RES-19
+C00957,Benjamin Ramachandran,Doctor,Cardiology,North,North-T9,SR-NO08,755,0.9,CAR-08
+C00958,Darika Sachdeva,Doctor,Dermatology,East,East-T3,SR-EA05,695,0.81,RES-17
+C00959,Kai Wali,Doctor,ENT,South,South-T4,SR-SO02,155,0.88,ANA-12
+C00960,Anita Yogi,Doctor,Pediatrics,West,West-T7,SR-WE02,372,0.4,ANA-02
+C00961,Shivansh Upadhyay,Doctor,Pediatrics,West,West-T2,SR-WE03,563,0.59,RES-17
+C00962,Jonathan Kale,Doctor,Pediatrics,West,West-T5,SR-WE09,777,0.73,ANA-21
+C00963,"Sankar, Gara and Mahal",Pharmacy,Pediatrics,West,West-T7,SR-WE08,555,0.89,CAR-05
+C00964,Liam Gara,Doctor,Pediatrics,Central,Central-T3,SR-CE03,769,0.98,RES-17
+C00965,Borah-Karan,Pharmacy,Pediatrics,Central,Central-T8,SR-CE02,348,0.37,RES-06
+C00966,Iyengar-Kulkarni,Hospital,GP,Central,Central-T7,SR-CE06,797,0.42,ANA-12
+C00967,Krish Borah,Doctor,Cardiology,Central,Central-T2,SR-CE05,177,0.59,ANA-12
+C00968,Falguni Rao,Doctor,Cardiology,East,East-T3,SR-EA05,633,0.86,CAR-14
+C00969,Sachdeva LLC,Pharmacy,Cardiology,North,North-T3,SR-NO05,207,0.88,DIA-16
+C00970,Vansha Doshi,Doctor,GP,North,North-T1,SR-NO02,372,0.62,RES-19
+C00971,"Sastry, Gola and Saha",Hospital,Pediatrics,East,East-T8,SR-EA08,114,0.89,CAR-20
+C00972,Veer Mishra,Doctor,Pediatrics,South,South-T8,SR-SO03,469,0.78,CAR-05
+C00973,Khosla and Sons,Pharmacy,Dermatology,East,East-T7,SR-EA02,403,0.6,ANT-13
+C00974,Hitesh Bora,Doctor,Dermatology,East,East-T8,SR-EA09,771,0.83,ANA-21
+C00975,Khare-Mitra,Pharmacy,ENT,North,North-T5,SR-NO03,304,0.71,RES-04
+C00976,George Prasad,Doctor,ENT,Central,Central-T9,SR-CE02,212,0.72,ANA-02
+C00977,Lipika Chaudhry,Doctor,Pediatrics,Central,Central-T9,SR-CE09,779,0.93,RES-04
+C00978,Chakraborty-Kapur,Hospital,Ortho,Central,Central-T4,SR-CE03,352,0.51,ANA-23
+C00979,Radhika Mahajan,Doctor,ENT,Central,Central-T6,SR-CE08,540,0.61,ANA-02
+C00980,Aradhana Chandran,Doctor,Cardiology,West,West-T7,SR-WE01,285,0.37,RES-17
+C00981,Daniel Reddy,Doctor,GP,East,East-T2,SR-EA07,326,0.7,CAR-10
+C00982,Zaitra Khanna,Doctor,GP,South,South-T3,SR-SO03,627,0.55,CAR-14
+C00983,"Jani, Pathak and Savant",Pharmacy,Ortho,South,South-T3,SR-SO01,767,0.37,ANA-02
+C00984,Hiral Tailor,Doctor,Cardiology,East,East-T7,SR-EA07,453,0.93,ANA-09
+C00985,Ishaan Din,Doctor,Cardiology,West,West-T4,SR-WE02,722,0.67,ANT-25
+C00986,Choudhury-Minhas,Hospital,Ortho,Central,Central-T1,SR-CE07,100,0.56,ANA-18
+C00987,Ryan Sachdeva,Doctor,Pediatrics,West,West-T4,SR-WE02,652,0.94,ANA-01
+C00988,"Raghavan, Vyas and Atwal",Hospital,Dermatology,East,East-T2,SR-EA09,659,0.51,ANA-18
+C00989,Waida Kadakia,Doctor,Pediatrics,South,South-T2,SR-SO05,519,0.9,RES-17
+C00990,Gautam Ramaswamy,Doctor,Cardiology,South,South-T4,SR-SO03,719,0.7,CAR-14
+C00991,Ojas Kumer,Doctor,Pediatrics,Central,Central-T5,SR-CE08,260,0.77,RES-06
+C00992,"Nanda, Chauhan and Dewan",Hospital,Pediatrics,North,North-T5,SR-NO01,260,0.74,CAR-22
+C00993,Kant Group,Pharmacy,Cardiology,West,West-T9,SR-WE06,227,0.53,RES-06
+C00994,Chatresh Thaker,Doctor,Pediatrics,Central,Central-T2,SR-CE02,250,0.89,RES-24
+C00995,"Datta, Sunder and Khatri",Pharmacy,Cardiology,Central,Central-T9,SR-CE05,543,0.97,DIA-11
+C00996,Bal Group,Hospital,Dermatology,East,East-T8,SR-EA05,570,0.53,CAR-22
+C00997,Jeremiah Sankar,Doctor,ENT,East,East-T6,SR-EA06,562,0.36,ANA-23
+C00998,"Choudhury, Garde and Dey",Pharmacy,GP,South,South-T1,SR-SO01,129,0.79,CAR-14
+C00999,Singhal and Sons,Pharmacy,ENT,Central,Central-T2,SR-CE08,572,0.86,ANA-21
+C01000,Ikshita Prabhakar,Doctor,Dermatology,North,North-T8,SR-NO09,656,0.79,ANA-12
+C01001,Daksha Lad,Doctor,Dermatology,West,West-T1,SR-WE06,179,0.43,ANA-12
+C01002,Nandini Yohannan,Doctor,Dermatology,South,South-T1,SR-SO08,138,0.84,CAR-22
+C01003,Girik Mallick,Doctor,ENT,East,East-T5,SR-EA04,339,0.88,CAR-08
+C01004,"Bhatt, Kala and Prakash",Hospital,GP,South,South-T5,SR-SO08,656,0.67,ANA-23
+C01005,Theodore Bhat,Doctor,Dermatology,Central,Central-T7,SR-CE04,689,0.42,ANA-09
+C01006,Jasmit Dhar,Doctor,ENT,Central,Central-T4,SR-CE09,436,0.78,RES-19
+C01007,Reyansh Palan,Doctor,Cardiology,Central,Central-T2,SR-CE03,379,0.43,RES-19
+C01008,"Date, Palan and Dugar",Pharmacy,Ortho,South,South-T4,SR-SO09,215,0.9,ANA-01
+C01009,Prasad Inc,Pharmacy,Pediatrics,Central,Central-T1,SR-CE05,368,0.96,ANA-21
+C01010,Tarak Pau,Doctor,Pediatrics,North,North-T5,SR-NO06,434,0.43,RES-17
+C01011,Faris Sekhon,Doctor,GP,West,West-T4,SR-WE08,411,0.38,CAR-14
+C01012,Idika Aggarwal,Doctor,Pediatrics,Central,Central-T4,SR-CE08,152,0.57,RES-19
+C01013,Shenoy-Bora,Hospital,Pediatrics,North,North-T2,SR-NO04,167,0.95,ANA-07
+C01014,Pahal Rout,Doctor,Dermatology,South,South-T2,SR-SO06,793,0.37,CAR-14
+C01015,"Keer, Modi and Chaudry",Pharmacy,Cardiology,North,North-T2,SR-NO06,133,0.66,DIA-11
+C01016,Jagat Mallick,Doctor,Cardiology,North,North-T2,SR-NO06,485,0.85,CAR-20
+C01017,"Chaudry, Misra and Nagarajan",Pharmacy,ENT,West,West-T2,SR-WE02,348,0.41,ANA-02
+C01018,Imaran Kumer,Doctor,Dermatology,North,North-T2,SR-NO07,210,0.86,ANA-02
+C01019,Warda Subramaniam,Doctor,Dermatology,West,West-T7,SR-WE01,193,0.39,CAR-22
+C01020,Raagini Loyal,Doctor,Pediatrics,North,North-T7,SR-NO09,509,0.41,ANT-25
+C01021,Bal Inc,Pharmacy,Dermatology,West,West-T1,SR-WE04,278,0.64,CAR-15
+C01022,Chandani Goel,Doctor,Dermatology,West,West-T1,SR-WE02,146,0.65,DIA-11
+C01023,Saanvi Tripathi,Doctor,GP,Central,Central-T2,SR-CE04,703,0.74,ANA-07
+C01024,"Patla, Narang and Subramanian",Pharmacy,Ortho,Central,Central-T6,SR-CE03,475,0.62,RES-24
+C01025,Rohan Bava,Doctor,Cardiology,Central,Central-T1,SR-CE08,686,0.39,CAR-10
+C01026,Idika Choudhry,Doctor,Dermatology,Central,Central-T6,SR-CE07,301,0.55,ANA-18
+C01027,Dayamai Buch,Doctor,ENT,South,South-T6,SR-SO03,544,0.54,ANA-01
+C01028,Aayush Iyer,Doctor,ENT,Central,Central-T9,SR-CE03,396,0.91,CAR-14
+C01029,"Shan, Rattan and Chander",Hospital,Dermatology,East,East-T4,SR-EA04,407,0.86,DIA-11
+C01030,"Halder, Kothari and Sangha",Pharmacy,Pediatrics,South,South-T6,SR-SO08,592,0.9,RES-19
+C01031,Guneet Narang,Doctor,Cardiology,East,East-T2,SR-EA05,437,0.65,ANA-02
+C01032,"Pal, Patil and Guha",Hospital,Dermatology,West,West-T4,SR-WE04,745,0.8,CAR-15
+C01033,Maanav Vohra,Doctor,Dermatology,Central,Central-T6,SR-CE04,165,0.87,ANT-13
+C01034,Radhika Nanda,Doctor,GP,South,South-T6,SR-SO07,521,0.36,ANA-12
+C01035,Januja Narang,Doctor,Ortho,North,North-T8,SR-NO09,639,0.48,RES-19
+C01036,Apte-Sodhi,Hospital,Cardiology,East,East-T4,SR-EA01,728,0.53,CAR-08
+C01037,Onkar Dey,Doctor,ENT,East,East-T4,SR-EA03,592,0.47,ANA-01
+C01038,Kala LLC,Hospital,GP,South,South-T3,SR-SO05,416,0.6,RES-04
+C01039,Yug Malhotra,Doctor,Cardiology,East,East-T6,SR-EA04,725,0.88,CAR-22
+C01040,Agate-Boase,Hospital,ENT,South,South-T7,SR-SO09,174,0.92,ANA-03
+C01041,"Kumar, Setty and Balakrishnan",Pharmacy,Cardiology,North,North-T4,SR-NO03,158,0.47,ANT-13
+C01042,Jasmit Sachar,Doctor,Dermatology,East,East-T4,SR-EA06,485,0.95,ANT-25
+C01043,Goyal PLC,Pharmacy,Ortho,Central,Central-T3,SR-CE04,114,0.56,ANA-02
+C01044,"Khanna, Balakrishnan and Mangal",Pharmacy,ENT,East,East-T8,SR-EA03,330,0.49,ANA-03
+C01045,Atharv Mohanty,Doctor,Pediatrics,West,West-T9,SR-WE02,716,0.59,RES-17
+C01046,Balendra Narasimhan,Doctor,Ortho,West,West-T9,SR-WE03,776,0.8,ANA-23
+C01047,Bimala Rattan,Doctor,Pediatrics,West,West-T1,SR-WE08,298,0.48,ANA-07
+C01048,Sathvik Guha,Doctor,Ortho,West,West-T7,SR-WE04,453,0.93,RES-19
+C01049,Qarin Bir,Doctor,GP,South,South-T3,SR-SO06,134,0.84,CAR-10
+C01050,Mason Ratta,Doctor,ENT,West,West-T1,SR-WE09,261,0.65,CAR-20
+C01051,Triveni Comar,Doctor,Pediatrics,East,East-T7,SR-EA07,570,0.59,DIA-16
+C01052,Hemani Sama,Doctor,Cardiology,East,East-T8,SR-EA05,630,0.5,ANA-21
+C01053,Kapadia-Shukla,Hospital,Ortho,North,North-T9,SR-NO06,522,0.68,ANA-21
+C01054,"Singhal, Mander and Chander",Hospital,GP,North,North-T2,SR-NO05,447,0.4,ANA-02
+C01055,Sachi Hayer,Doctor,Dermatology,Central,Central-T6,SR-CE04,793,0.51,RES-24
+C01056,"Krishna, Kala and Hayre",Pharmacy,Cardiology,East,East-T9,SR-EA04,246,0.94,ANA-01
+C01057,"Bajwa, Deol and Bala",Pharmacy,Pediatrics,East,East-T7,SR-EA05,473,0.88,ANT-25
+C01058,"Divan, Vaidya and Bal",Pharmacy,Cardiology,North,North-T7,SR-NO08,787,0.5,RES-24
+C01059,Ishwar Chauhan,Doctor,ENT,South,South-T9,SR-SO08,774,0.84,RES-24
+C01060,Sinha-Patla,Pharmacy,Ortho,West,West-T4,SR-WE06,515,0.63,ANA-23
+C01061,Ishanvi Sengupta,Doctor,ENT,West,West-T1,SR-WE04,786,0.59,RES-19
+C01062,Chopra and Sons,Hospital,GP,South,South-T8,SR-SO05,593,0.88,ANA-12
+C01063,Dayita Sharma,Doctor,Dermatology,East,East-T7,SR-EA04,658,0.85,ANA-23
+C01064,Keya Goel,Doctor,GP,Central,Central-T1,SR-CE05,355,0.95,CAR-05
+C01065,Dayal Ltd,Hospital,Cardiology,East,East-T7,SR-EA07,785,0.39,ANT-13
+C01066,Devika Chad,Doctor,ENT,South,South-T8,SR-SO08,202,0.77,CAR-10
+C01067,Azad Lata,Doctor,ENT,North,North-T3,SR-NO03,220,0.37,ANA-23
+C01068,Chasmum Parekh,Doctor,Cardiology,Central,Central-T2,SR-CE08,518,0.94,ANT-13
+C01069,Frado Chokshi,Doctor,Dermatology,East,East-T9,SR-EA04,449,0.4,ANA-02
+C01070,Gagan Dave,Doctor,Ortho,East,East-T7,SR-EA09,756,0.6,RES-04
+C01071,Qasim Soman,Doctor,Dermatology,South,South-T2,SR-SO09,141,0.6,ANA-07
+C01072,Frederick Nadkarni,Doctor,Dermatology,South,South-T8,SR-SO04,466,0.45,RES-19
+C01073,Urmi Vora,Doctor,Dermatology,East,East-T8,SR-EA04,128,0.53,ANA-01
+C01074,Suhani Bora,Doctor,Pediatrics,South,South-T4,SR-SO08,113,0.69,RES-19
+C01075,Yash Bhatt,Doctor,GP,West,West-T2,SR-WE08,584,0.54,CAR-15
+C01076,Abha Bal,Doctor,Cardiology,East,East-T7,SR-EA05,288,0.51,CAR-20
+C01077,Deepa Kumer,Doctor,Dermatology,West,West-T3,SR-WE08,394,0.8,RES-04
+C01078,Aadhya Lall,Doctor,Cardiology,West,West-T5,SR-WE01,282,0.92,ANA-18
+C01079,"Zacharia, Ganesh and Sanghvi",Pharmacy,Dermatology,East,East-T4,SR-EA02,647,0.94,CAR-14
+C01080,Chowdhury LLC,Hospital,GP,Central,Central-T2,SR-CE02,136,0.68,ANT-25
+C01081,Om Virk,Doctor,Ortho,East,East-T4,SR-EA07,113,0.68,CAR-15
+C01082,"Andra, Mukhopadhyay and Morar",Pharmacy,Dermatology,North,North-T8,SR-NO02,734,0.6,RES-24
+C01083,Yashodhara Pillay,Doctor,GP,West,West-T5,SR-WE04,694,0.42,CAR-05
+C01084,Forum Kara,Doctor,GP,East,East-T2,SR-EA08,258,0.71,CAR-08
+C01085,Zarna Gaba,Doctor,Ortho,West,West-T3,SR-WE03,593,0.46,ANA-01
+C01086,Warjas Venkatesh,Doctor,GP,Central,Central-T9,SR-CE02,428,0.83,RES-06
+C01087,"Sama, Gopal and Ahuja",Pharmacy,Cardiology,North,North-T8,SR-NO01,713,0.58,ANA-07
+C01088,Jonathan Vig,Doctor,Dermatology,North,North-T1,SR-NO09,182,0.89,RES-17
+C01089,Rama-Venkatesh,Pharmacy,Pediatrics,North,North-T1,SR-NO07,655,0.74,ANA-02
+C01090,Kala and Sons,Hospital,Ortho,West,West-T4,SR-WE04,679,0.48,ANA-01
+C01091,Sem Group,Hospital,Ortho,West,West-T4,SR-WE01,659,0.79,ANA-03
+C01092,Tata-Chaudry,Pharmacy,Dermatology,South,South-T3,SR-SO02,668,0.82,ANA-02
+C01093,Gayathri Khanna,Doctor,Ortho,West,West-T6,SR-WE09,686,0.72,ANA-07
+C01094,"Dubey, Majumdar and Sangha",Hospital,Pediatrics,Central,Central-T7,SR-CE04,121,0.43,ANA-07
+C01095,Balvan Jaggi,Doctor,GP,North,North-T7,SR-NO06,231,0.78,ANA-01
+C01096,Dhruv Dhawan,Doctor,GP,West,West-T5,SR-WE04,564,0.77,ANA-12
+C01097,Koshy-Issac,Pharmacy,Pediatrics,North,North-T5,SR-NO02,555,0.85,DIA-16
+C01098,Devan LLC,Pharmacy,ENT,North,North-T3,SR-NO09,401,0.51,RES-04
+C01099,Suri Inc,Hospital,Dermatology,Central,Central-T7,SR-CE06,366,0.79,ANT-25
+C01100,Leena Sharma,Doctor,Dermatology,South,South-T6,SR-SO06,494,0.99,CAR-22
+C01101,Isha Nagar,Doctor,ENT,West,West-T8,SR-WE02,219,0.6,ANA-21
+C01102,Yutika Shere,Doctor,GP,South,South-T4,SR-SO09,345,0.36,ANT-25
+C01103,Sarthak Zacharia,Doctor,Pediatrics,North,North-T4,SR-NO05,667,0.75,ANA-02
+C01104,Aashi Chanda,Doctor,Cardiology,South,South-T3,SR-SO06,137,0.59,ANA-21
+C01105,"Gulati, Hayre and Rajan",Hospital,ENT,North,North-T8,SR-NO04,344,0.83,DIA-11
+C01106,Bhavna Prakash,Doctor,GP,South,South-T9,SR-SO05,120,0.86,CAR-14
+C01107,Warda Sura,Doctor,Dermatology,East,East-T6,SR-EA01,209,0.57,ANA-07
+C01108,Chakrabarti Inc,Hospital,Dermatology,Central,Central-T4,SR-CE01,705,0.87,ANA-23
+C01109,Ojasvi Dubey,Doctor,Cardiology,South,South-T8,SR-SO07,493,0.76,ANA-03
+C01110,Chakrabarti-Sengupta,Hospital,GP,West,West-T3,SR-WE02,509,0.96,CAR-05
+C01111,Kiaan Buch,Doctor,Cardiology,North,North-T4,SR-NO03,747,0.68,CAR-14
+C01112,Vedant Memon,Doctor,Cardiology,West,West-T4,SR-WE05,107,0.63,CAR-20
+C01113,Ekani Devan,Doctor,Pediatrics,South,South-T4,SR-SO05,543,0.53,DIA-16
+C01114,Samaksh Hayre,Doctor,Cardiology,North,North-T8,SR-NO06,427,0.64,RES-17
+C01115,"Golla, Kale and Narasimhan",Pharmacy,Pediatrics,Central,Central-T1,SR-CE07,389,0.85,CAR-14
+C01116,Mohammed Bhat,Doctor,Cardiology,North,North-T9,SR-NO05,610,0.82,ANA-09
+C01117,Qushi Pau,Doctor,Ortho,West,West-T7,SR-WE08,460,0.72,DIA-16
+C01118,Zarna Srivastava,Doctor,Pediatrics,North,North-T4,SR-NO06,698,0.45,ANA-07
+C01119,Ganguly-Mitra,Pharmacy,Dermatology,North,North-T6,SR-NO01,318,0.67,CAR-14
+C01120,Tejas Sami,Doctor,Ortho,West,West-T2,SR-WE06,505,0.62,ANA-02
+C01121,"Pillay, Sur and Subramanian",Hospital,Cardiology,North,North-T4,SR-NO07,720,0.85,ANA-09
+C01122,Sachdeva and Sons,Pharmacy,Dermatology,East,East-T6,SR-EA09,319,0.8,ANA-21
+C01123,"Cherian, Rajagopal and Sahni",Pharmacy,Cardiology,West,West-T8,SR-WE07,694,0.37,ANA-12
+C01124,Darika D??lia,Doctor,Pediatrics,North,North-T3,SR-NO03,206,0.52,CAR-20
+C01125,Manthan Varughese,Doctor,GP,Central,Central-T7,SR-CE03,680,0.61,RES-19
+C01126,Saha and Sons,Hospital,Pediatrics,North,North-T3,SR-NO09,708,0.89,ANA-09
+C01127,Gole LLC,Hospital,Dermatology,East,East-T7,SR-EA09,385,0.73,RES-24
+C01128,Panini Sem,Doctor,ENT,West,West-T6,SR-WE02,107,0.88,ANA-09
+C01129,Dua-Vaidya,Pharmacy,GP,South,South-T3,SR-SO07,288,0.88,ANA-01
+C01130,Dani Group,Pharmacy,Pediatrics,North,North-T9,SR-NO02,180,0.62,CAR-10
+C01131,Udant Khurana,Doctor,Cardiology,West,West-T3,SR-WE03,207,0.48,RES-06
+C01132,Chanchal Babu,Doctor,Cardiology,Central,Central-T3,SR-CE02,420,0.48,RES-24
+C01133,Wishi Lall,Doctor,Pediatrics,South,South-T8,SR-SO04,678,0.76,CAR-20
+C01134,Jhalak Srivastava,Doctor,GP,North,North-T7,SR-NO03,785,0.43,ANA-03
+C01135,Yauvani Korpal,Doctor,Pediatrics,East,East-T8,SR-EA01,445,0.79,RES-04
+C01136,Libni Chawla,Doctor,GP,North,North-T1,SR-NO01,427,0.41,RES-17
+C01137,Bath Group,Pharmacy,Ortho,North,North-T8,SR-NO07,654,0.66,DIA-11
+C01138,Mitali Pall,Doctor,Dermatology,Central,Central-T6,SR-CE07,798,1,CAR-08
+C01139,Adya Sekhon,Doctor,GP,East,East-T6,SR-EA07,401,0.92,RES-04
+C01140,Bumb-Bahri,Pharmacy,Pediatrics,North,North-T3,SR-NO08,299,0.37,RES-04
+C01141,Ahluwalia-Johal,Hospital,Cardiology,Central,Central-T6,SR-CE05,518,0.64,CAR-22
+C01142,Amaira Atwal,Doctor,Cardiology,West,West-T1,SR-WE09,138,0.99,DIA-11
+C01143,Karnik-Ghosh,Pharmacy,Dermatology,North,North-T6,SR-NO06,406,0.79,CAR-08
+C01144,Dakshesh Dave,Doctor,ENT,Central,Central-T2,SR-CE08,103,0.58,DIA-16
+C01145,George Char,Doctor,Cardiology,North,North-T3,SR-NO07,732,0.92,RES-19
+C01146,Pranav Din,Doctor,GP,Central,Central-T5,SR-CE01,176,0.89,ANA-18
+C01147,Dugal-Chand,Pharmacy,GP,West,West-T8,SR-WE03,567,0.78,CAR-08
+C01148,Daksha Bhavsar,Doctor,Dermatology,South,South-T2,SR-SO04,278,0.42,ANA-23
+C01149,Kumar-Bahl,Hospital,Ortho,North,North-T7,SR-NO03,744,0.85,CAR-08
+C01150,Dhaliwal Ltd,Hospital,Dermatology,East,East-T2,SR-EA08,375,0.78,ANA-18
+C01151,Balasubramanian-Mishra,Pharmacy,Ortho,West,West-T4,SR-WE02,251,0.96,ANT-25
+C01152,Parmer Inc,Pharmacy,Pediatrics,Central,Central-T7,SR-CE02,263,0.78,ANA-18
+C01153,Shivansh Rai,Doctor,GP,West,West-T5,SR-WE04,389,0.41,ANA-03
+C01154,"Issac, Bajaj and Bala",Pharmacy,GP,East,East-T6,SR-EA04,477,0.43,DIA-11
+C01155,Ayush Oak,Doctor,ENT,West,West-T9,SR-WE01,720,0.47,ANT-13
+C01156,"Tailor, Ahluwalia and Dugar",Pharmacy,Dermatology,West,West-T3,SR-WE06,737,0.69,CAR-20
+C01157,Chatresh Verma,Doctor,GP,Central,Central-T9,SR-CE04,409,0.9,DIA-11
+C01158,Deshmukh-Naidu,Pharmacy,Pediatrics,South,South-T8,SR-SO05,488,0.45,CAR-10
+C01159,Diya Chaudry,Doctor,Ortho,South,South-T9,SR-SO01,757,0.99,RES-04
+C01160,Bawa-Kakar,Pharmacy,Cardiology,East,East-T8,SR-EA08,282,0.54,ANT-13
+C01161,Aadi Dave,Doctor,Dermatology,North,North-T4,SR-NO06,405,0.9,CAR-08
+C01162,"Goswami, Rao and Basak",Pharmacy,Dermatology,North,North-T7,SR-NO03,171,0.54,CAR-22
+C01163,Chandran Doctor,Doctor,Ortho,South,South-T7,SR-SO01,318,0.79,ANA-12
+C01164,Shravya Bala,Doctor,Dermatology,West,West-T5,SR-WE07,272,0.53,ANA-07
+C01165,Veer Chand,Doctor,Ortho,Central,Central-T1,SR-CE07,752,0.9,ANA-23
+C01166,"Dhawan, Natarajan and Tella",Pharmacy,ENT,East,East-T3,SR-EA08,371,0.64,DIA-16
+C01167,Vamakshi Dani,Doctor,Dermatology,East,East-T4,SR-EA03,567,0.83,ANA-01
+C01168,Oak Group,Pharmacy,Cardiology,East,East-T7,SR-EA02,368,0.97,CAR-14
+C01169,Karan Seth,Doctor,Pediatrics,South,South-T3,SR-SO01,119,0.96,RES-04
+C01170,Tanay Kalla,Doctor,Cardiology,Central,Central-T7,SR-CE06,677,0.51,RES-04
+C01171,Isaiah Dutt,Doctor,Dermatology,South,South-T3,SR-SO07,602,0.77,ANT-13
+C01172,"Gara, Sekhon and Talwar",Pharmacy,Dermatology,North,North-T7,SR-NO08,246,0.53,ANA-21
+C01173,Noah Kibe,Doctor,GP,West,West-T2,SR-WE06,528,0.43,ANA-21
+C01174,Oviya Narula,Doctor,ENT,Central,Central-T8,SR-CE04,264,0.53,RES-24
+C01175,Tanmayi Dave,Doctor,Dermatology,North,North-T7,SR-NO03,409,0.54,CAR-05
+C01176,Zilmil Narayan,Doctor,ENT,North,North-T3,SR-NO06,617,0.61,ANA-23
+C01177,Kabir Dewan,Doctor,ENT,North,North-T9,SR-NO07,113,0.67,RES-17
+C01178,Dixit Group,Pharmacy,Dermatology,Central,Central-T2,SR-CE09,231,0.84,ANA-07
+C01179,"Panchal, Shetty and Bandi",Pharmacy,Dermatology,North,North-T3,SR-NO03,538,0.35,CAR-15
+C01180,Krishna Chaudry,Doctor,ENT,East,East-T4,SR-EA02,773,0.77,ANA-03
+C01181,Bora and Sons,Pharmacy,GP,Central,Central-T2,SR-CE05,362,0.99,RES-17
+C01182,"Srinivas, Narayan and Chatterjee",Hospital,Cardiology,East,East-T7,SR-EA06,742,0.99,CAR-22
+C01183,Janya Nanda,Doctor,ENT,North,North-T5,SR-NO04,324,0.78,CAR-15
+C01184,Sawhney-Thaker,Pharmacy,ENT,South,South-T6,SR-SO08,357,0.74,RES-17
+C01185,Wali and Sons,Pharmacy,GP,South,South-T4,SR-SO02,333,0.37,CAR-05
+C01186,Agate Group,Hospital,ENT,East,East-T9,SR-EA04,435,0.49,ANA-12
+C01187,Bhardwaj Ltd,Pharmacy,Pediatrics,East,East-T2,SR-EA03,508,0.71,ANA-09
+C01188,Balhaar Ravel,Doctor,GP,West,West-T5,SR-WE03,123,0.79,ANA-23
+C01189,Isha Tank,Doctor,Dermatology,South,South-T5,SR-SO09,370,1,ANA-23
+C01190,Vrinda Halder,Doctor,Dermatology,South,South-T9,SR-SO06,194,0.74,CAR-14
+C01191,Chaudhuri and Sons,Hospital,Pediatrics,South,South-T7,SR-SO06,241,0.37,CAR-20
+C01192,Devika Viswanathan,Doctor,ENT,South,South-T2,SR-SO02,793,0.79,CAR-14
+C01193,Gara-Madan,Pharmacy,Ortho,North,North-T6,SR-NO06,180,0.86,CAR-05
+C01194,Bahadurjit More,Doctor,Pediatrics,South,South-T4,SR-SO05,373,0.6,RES-04
+C01195,Leela Dutta,Doctor,Ortho,North,North-T8,SR-NO03,375,0.41,ANA-12
+C01196,Arjun Walia,Doctor,ENT,Central,Central-T2,SR-CE05,564,0.93,RES-06
+C01197,Sanaya Salvi,Doctor,Dermatology,East,East-T9,SR-EA07,307,0.71,ANT-13
+C01198,Dipta Pal,Doctor,Dermatology,West,West-T9,SR-WE03,395,0.81,CAR-22
+C01199,Nihal Mistry,Doctor,Dermatology,South,South-T5,SR-SO03,138,0.38,RES-24
+C01200,"Borde, Bobal and Yohannan",Pharmacy,Pediatrics,East,East-T8,SR-EA04,387,0.47,ANA-12

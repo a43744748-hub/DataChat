@@ -1,0 +1,186 @@
+version: 2
+tables:
+  - name: dim_product
+    description: Master list of pharmaceutical products with key commercial and brand attributes. Each row represents one unique product (brand SKU).
+    columns:
+      - name: product_name
+        description: Unique product identifier (primary key). Typically a short therapy-based code.
+        tests:
+          - unique: {}
+          - not_null: {}
+      - name: molecule
+        description: Active pharmaceutical ingredient (API).
+      - name: therapy_area
+        description: Therapeutic or disease area associated with the product.
+      - name: pack_size
+        description: Number of units (e.g., tablets/capsules) per pack.
+      - name: launch_date
+        description: Product launch date.
+      - name: mrp
+        description: Maximum retail price (per pack, in INR).
+      - name: margin_pct
+        description: Company’s gross margin percentage for the product.
+      - name: competitor_flag
+        description: Boolean flag indicating whether this product is considered a competitor brand internally.
+      - name: brand_manager
+        description: Marketing or brand manager responsible for product performance.
+
+
+  - name: dim_sales_rep
+    description: Monthly sales performance data for each field representative. Includes targets, achievements, and activity metrics.
+    columns:
+      - name: month
+        description: Calendar month (first day of month).
+      - name: sales_rep_id
+        description: Unique identifier for each medical representative.
+        tests:
+          - not_null: {}
+      - name: rep_name
+        description: Name of the sales representative.
+      - name: region
+        description: Geographical region assigned to the rep.
+      - name: territory
+        description: Sub-region or area of operation within region.
+      - name: manager_name
+        description: Immediate reporting manager or brand manager name.
+      - name: tenure_months
+        description: Total months of tenure with the company (incremental over time).
+      - name: monthly_target
+        description: Assigned sales target for the given month (INR).
+      - name: actual_sales_value
+        description: Achieved sales value in INR.
+      - name: target_achievement_pct
+        description: Ratio of achieved vs. target (actual ÷ target).
+      - name: visits_made
+        description: Number of customer visits made in the month.
+      - name: new_customers
+        description: Number of newly added customers.
+      - name: returning_customers
+        description: Number of existing customers revisited.
+      - name: active_status
+        description: Boolean indicating whether the rep was active in the month.
+
+
+  - name: dim_customer
+    description: Customer master list covering doctors, pharmacies, and hospitals. Includes demographics, specialization, and assigned representative.
+    columns:
+      - name: customer_id
+        description: Unique customer identifier (primary key).
+        tests:
+          - unique: {}
+          - not_null: {}
+      - name: customer_name
+        description: Name of the customer (doctor, pharmacy, or hospital).
+      - name: customer_type
+        description: Type of customer (Doctor / Pharmacy / Hospital).
+      - name: specialization
+        description: Medical specialty (for doctors only).
+      - name: region
+        description: Customer’s geographical region.
+      - name: territory
+        description: Sub-region associated with the customer.
+      - name: assigned_rep
+        description: Sales representative assigned to the customer.
+        tests:
+          - relationships:
+              to: ref('dim_sales_rep')
+              field: sales_rep_id
+      - name: avg_monthly_rx
+        description: Average number of prescriptions per month.
+      - name: loyalty_score
+        description: Numeric score (0–1) indicating customer brand affinity.
+      - name: preferred_brand
+        description: Product most often prescribed or purchased.
+
+
+  - name: fact_sales
+    description: Transaction-level sales fact table, representing each sale event across customers, products, and sales representatives. Serves as the core commercial performance dataset.
+    columns:
+      - name: month
+        description: Calendar month of sale.
+      - name: product_name
+        description: Product sold (foreign key to dim_product).
+        tests:
+          - relationships:
+              to: ref('dim_product')
+              field: product_name
+      - name: therapy_area
+        description: Therapeutic area derived from product master.
+      - name: region
+        description: Region of sale.
+      - name: territory
+        description: Territory of sale.
+      - name: channel
+        description: Distribution channel (Retail, Hospital, E-Pharmacy).
+      - name: sales_rep_id
+        description: Sales representative responsible for the transaction.
+        tests:
+          - relationships:
+              to: ref('dim_sales_rep')
+              field: sales_rep_id
+      - name: customer_id
+        description: Customer who made the purchase (linked to dim_customer).
+        tests:
+          - relationships:
+              to: ref('dim_customer')
+              field: customer_id
+      - name: units_sold
+        description: Quantity of product sold (number of packs).
+      - name: gross_sales_value
+        description: Total sales before discounts.
+      - name: discount_value
+        description: Discount applied on sale.
+      - name: net_sales_value
+        description: Net realized sales value.
+
+
+  - name: fact_inventory
+    description: Monthly stock flow table showing opening, received, sold, and closing inventory by product and region. Used for supply chain and stock availability analytics.
+    columns:
+      - name: month
+        description: Calendar month.
+      - name: product_name
+        description: Product identifier (linked to dim_product).
+        tests:
+          - relationships:
+              to: ref('dim_product')
+              field: product_name
+      - name: region
+        description: Region of stock.
+      - name: opening_stock_units
+        description: Opening stock at the start of the month.
+      - name: received_units
+        description: Stock received during the month.
+      - name: sold_units
+        description: Units sold in the month (matches fact_sales aggregate).
+      - name: closing_stock_units
+        description: Remaining stock at month-end.
+      - name: stockout_days
+        description: Number of days the product was unavailable.
+      - name: backorder_units
+        description: Number of pending units due to unavailability.
+
+
+  - name: fact_marketing
+    description: Marketing campaign spend and performance metrics by product, channel, and region. Links campaign exposure to product sales outcomes.
+    columns:
+      - name: month
+        description: Month of marketing activity.
+      - name: product_name
+        description: Product promoted (linked to dim_product).
+        tests:
+          - relationships:
+              to: ref('dim_product')
+              field: product_name
+      - name: channel
+        description: Marketing channel used (Digital, Print, etc.).
+      - name: spend
+        description: Total spend for the campaign in INR.
+      - name: impressions
+        description: Estimated ad impressions.
+      - name: conversions
+        description: Number of user actions (doctor engagement, inquiries, etc.).
+      - name: leads_generated
+        description: Number of sales-qualified leads.
+      - name: region
+        description: Region where campaign occurred or “National”.
